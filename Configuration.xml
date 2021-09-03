@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<config>
+	<profiles>
+		<profile name="Default">
+			<preferences>
+				<renderSettings terrain-quality="2" smoothing-mode="0" smooth-characters="true" animated-characters="false" item-shadows="false" character-shadows="false" />
+				<footstep volume="3000" mute="true" />
+				<sound volume="3000" mute="false" />
+				<music volume="3000" mute="true" />
+				<speechHues regular="96" yell="96" emote="96" whisper="96" />
+				<notoHues innocent="89" ally="63" attackable="1303" criminal="946" enemy="144" murderer="34" vendor="53" />
+				<options flags="898879" notoQuery="2" houseLevel="3" />
+				<scavenger options="15">
+					<item itemID="7393" />
+				</scavenger>
+				<screenLayout game-x="129" game-y="48" game-width="1590" game-height="950" screen-x="448" screen-y="156" screen-width="1024" screen-height="768" maximized="true" full-width="1024" full-height="768" fullscreen="false">
+					<spellIcon gump-x="1729" gump-y="597" id="2" />
+					<spellIcon gump-x="1729" gump-y="405" id="28" />
+					<spellIcon gump-x="1729" gump-y="357" id="39" />
+					<spellIcon gump-x="1729" gump-y="645" id="58" />
+					<spellIcon gump-x="1729" gump-y="693" id="61" />
+					<spellIcon gump-x="1729" gump-y="741" id="52" />
+					<spellIcon gump-x="1729" gump-y="837" id="45" />
+					<spellIcon gump-x="1729" gump-y="789" id="32" />
+					<spellIcon gump-x="1729" gump-y="885" id="41" />
+					<spellIcon gump-x="1729" gump-y="933" id="34" />
+					<spellIcon gump-x="1729" gump-y="1008" id="56" />
+					<spellIcon gump-x="1670" gump-y="1008" id="49" />
+					<spellIcon gump-x="1622" gump-y="1008" id="55" />
+					<spellIcon gump-x="1729" gump-y="213" id="34" />
+					<spellIcon gump-x="1729" gump-y="309" id="47" />
+					<spellIcon gump-x="1729" gump-y="69" id="57" />
+					<spellIcon gump-x="1729" gump-y="261" id="59" />
+					<skillIcon gump-x="1791" gump-y="342" id="2" />
+					<spellIcon gump-x="1430" gump-y="1008" id="2" />
+					<spellIcon gump-x="1478" gump-y="1008" id="13" />
+					<spellIcon gump-x="1729" gump-y="117" id="55" />
+					<spellIcon gump-x="1526" gump-y="-6" id="15" />
+					<spellIcon gump-x="134" gump-y="1008" id="56" />
+					<spellIcon gump-x="1574" gump-y="-6" id="54" />
+					<spellIcon gump-x="1622" gump-y="-6" id="41" />
+					<spellIcon gump-x="1670" gump-y="-6" id="34" />
+					<spellIcon gump-x="1729" gump-y="453" id="50" />
+					<spellIcon gump-x="1478" gump-y="-6" id="36" />
+					<spellIcon gump-x="1142" gump-y="-6" id="22" />
+					<spellIcon gump-x="998" gump-y="-6" id="35" />
+					<spellIcon gump-x="1046" gump-y="-6" id="48" />
+					<spellIcon gump-x="518" gump-y="-6" id="30" />
+					<spellIcon gump-x="566" gump-y="-6" id="43" />
+					<spellIcon gump-x="614" gump-y="-6" id="42" />
+					<spellIcon gump-x="662" gump-y="-6" id="51" />
+					<spellIcon gump-x="758" gump-y="-6" id="49" />
+					<spellIcon gump-x="806" gump-y="-6" id="55" />
+					<spellIcon gump-x="854" gump-y="-6" id="57" />
+					<spellIcon gump-x="1430" gump-y="-6" id="7" />
+					<spellIcon gump-x="1382" gump-y="-6" id="26" />
+				</screenLayout>
+			</preferences>
+		</profile>
+	</profiles>
+	<servers>
+		<server name="74.91.125.93">
+			<ignore />
+			<travel>
+				<runebook serial="1095951148" itemID="8901">
+					<rune name="Fogne 2" point-x="6065" point-y="1445" />
+					<rune name="Ite " point-x="869" point-y="883" />
+					<rune name="BritPonteVilage" point-x="1395" point-y="1812" />
+					<rune name="BritDietroStable" point-x="1281" point-y="1786" />
+					<rune name="BritNWCimi" point-x="1286" point-y="1551" />
+					<rune name="Bucca" point-x="2742" point-y="2166" />
+					<rune name="Ponte" point-x="1402" point-y="1728" />
+					<rune name="GODZ" point-x="1260" point-y="1673" />
+					<rune name="SPQR" point-x="1844" point-y="357" />
+				</runebook>
+				<runebook serial="1087781803" itemID="8901">
+					<rune name="Champ Abyss" point-x="7057" point-y="727" />
+					<rune name="Champ Deceit" point-x="5141" point-y="650" />
+					<rune name="Champ Terathan" point-x="5145" point-y="1557" />
+					<rune name="Champ Covetous" point-x="7079" point-y="1014" />
+					<rune name="Champ Wrong" point-x="1997" point-y="298" />
+					<rune name="Champ Shame" point-x="5589" point-y="221" />
+					<rune name="Champ Destard" point-x="5228" point-y="890" />
+					<rune name="Champ Orc" point-x="5274" point-y="2032" />
+					<rune name="Champ Island" point-x="357" point-y="3746" />
+					<rune name="Arch Demon" point-x="5696" point-y="660" />
+					<rune name="Lich Khan" point-x="6125" point-y="1376" />
+					<rune name="tOKE NO CUT" point-x="1178" point-y="1671" />
+					<rune name="toke bucca" point-x="2628" point-y="978" />
+				</runebook>
+				<runebook serial="1173336941" itemID="8901">
+					<rune name="House" point-x="1775" point-y="3412" />
+					<rune name="Sede Ite" point-x="867" point-y="887" />
+					<rune name="Occlo" point-x="3686" point-y="2500" />
+					<rune name="Brit South" point-x="1525" point-y="1671" />
+					<rune name="Britain" point-x="1420" point-y="1636" />
+					<rune name="" point-x="4572" point-y="3130" />
+					<rune name="BritDietroStable" point-x="1281" point-y="1786" />
+					<rune name="BritNWCimi" point-x="1286" point-y="1551" />
+					<rune name="BritPonteVilage" point-x="1395" point-y="1812" />
+					<rune name="Ite" point-x="2696" point-y="590" />
+					<rune name="Bucca" point-x="2733" point-y="2180" />
+					<rune name="Casa BRIT" point-x="1743" point-y="1524" />
+					<rune name="home" point-x="1795" point-y="3302" />
+					<rune name="Casa UIZ" point-x="1679" point-y="1500" />
+					<rune name="Toke Summer House" point-x="4776" point-y="3840" />
+					<rune name="Toke destard house" point-x="1305" point-y="2673" />
+				</runebook>
+				<runebook serial="1208879932" itemID="8901">
+					<rune name="Spider Cave" point-x="562" point-y="1641" />
+					<rune name="Wyrm ICE" point-x="5759" point-y="159" />
+					<rune name="Temple Island" point-x="2503" point-y="3546" />
+					<rune name="Ride Wolf" point-x="698" point-y="1525" />
+					<rune name="Booty Island Beach" point-x="4067" point-y="1819" />
+					<rune name="Zostrich" point-x="1330" point-y="2237" />
+					<rune name="Nightmare Ankh" point-x="62" point-y="1171" point-f="2" />
+					<rune name="Orn" point-x="3768" point-y="2212" />
+					<rune name="Home Trinsic" point-x="1771" point-y="3410" />
+					<rune name="Gemmas Book Shoppe" point-x="4416" point-y="1496" />
+					<rune name="Grinch Liar's" point-x="6030" point-y="197" />
+					<rune name="Ingresso Tempio Wint" point-x="5277" point-y="2326" />
+					<rune name="House Max" point-x="1780" point-y="3301" />
+					<rune name="Brit Private Bank" point-x="1432" point-y="1714" />
+					<rune name="casa brit" point-x="1740" point-y="1526" />
+				</runebook>
+				<runebook serial="1110312159" itemID="8901">
+					<rune name="Exudos Entrance" point-x="289" point-y="769" />
+					<rune name="destard lake" point-x="5237" point-y="894" />
+					<rune name="Khaldun" point-x="1714" point-y="2992" />
+					<rune name="Serpente Booty" point-x="3979" point-y="1957" />
+					<rune name="Toxic Al Ank" point-x="78" point-y="930" point-f="2" />
+					<rune name="Occlo Farming" point-x="3673" point-y="2734" />
+					<rune name="Destard Entrance" point-x="1148" point-y="2649" />
+					<rune name="Titan booty" point-x="4007" point-y="2193" />
+					<rune name="Dragons booty" point-x="3895" point-y="2126" />
+					<rune name="Moonglow East" point-x="4678" point-y="1210" />
+					<rune name="Occlo fields" point-x="3728" point-y="2734" />
+					<rune name="Minoc North" point-x="2499" point-y="361" />
+				</runebook>
+				<runebook serial="1092829967" itemID="8901">
+					<rune name="Wind deamon" point-x="5155" point-y="146" />
+					<rune name="Maze Center" point-x="1166" point-y="2246" />
+					<rune name="Dragon Temple" point-x="4609" point-y="3607" />
+					<rune name="Fire titans" point-x="5664" point-y="1332" />
+					<rune name="Wrong" point-x="2042" point-y="218" />
+					<rune name="Abnormal Spiders" point-x="1966" point-y="3196" />
+					<rune name="Ancient Ice Wyrm" point-x="5283" point-y="2318" />
+					<rune name="Spring Dung" point-x="1022" point-y="2240" />
+				</runebook>
+				<runebook serial="1085724500" itemID="8901">
+					<rune name="Despise 1" point-x="5439" point-y="981" />
+					<rune name="Wrong 1" point-x="5671" point-y="568" />
+					<rune name="Wrong 2" point-x="5690" point-y="558" />
+					<rune name="Wrong 3" point-x="5718" point-y="567" />
+					<rune name="Outpost 1" point-x="1671" point-y="2470" />
+					<rune name="Grotto 1" point-x="2986" point-y="2894" />
+				</runebook>
+				<runebook serial="1154323524" itemID="8901">
+					<rune name="Abyss W" point-x="6935" point-y="725" />
+					<rune name="Abyss E" point-x="7059" point-y="728" />
+					<rune name="Covetous W" point-x="7009" point-y="1060" />
+					<rune name="Deceit Tele N" point-x="5141" point-y="648" />
+					<rune name="Deceit Altar" point-x="5128" point-y="726" />
+					<rune name="Despise W" point-x="5498" point-y="839" />
+					<rune name="Despise E" point-x="5622" point-y="785" />
+					<rune name="Destard NW" point-x="5205" point-y="781" />
+					<rune name="Destard E" point-x="5316" point-y="853" />
+					<rune name="Terathan NW" point-x="5144" point-y="1556" />
+					<rune name="Terathan E" point-x="5237" point-y="1583" />
+					<rune name="Wrong" point-x="1993" point-y="296" />
+					<rune name="Shame" point-x="5595" point-y="246" />
+					<rune name="Orc Cave SW" point-x="5273" point-y="2032" />
+					<rune name="Orc Cave E" point-x="5360" point-y="1999" />
+					<rune name="Orc North" point-x="5323" point-y="1959" />
+				</runebook>
+				<runebook serial="1108663606" itemID="8901">
+					<rune name="Champ Despise" point-x="5507" point-y="839" />
+					<rune name="Champ Abyss" point-x="7057" point-y="727" />
+					<rune name="Champ Deceit" point-x="5141" point-y="650" />
+					<rune name="Champ Terathan" point-x="5145" point-y="1557" />
+					<rune name="Champ Covetous" point-x="7079" point-y="1014" />
+					<rune name="Champ Wrong" point-x="1997" point-y="298" />
+					<rune name="Champ Shame" point-x="5589" point-y="221" />
+					<rune name="Champ Destard" point-x="5228" point-y="890" />
+					<rune name="Champ Orc" point-x="5274" point-y="2032" />
+					<rune name="Champ Island" point-x="357" point-y="3746" />
+					<rune name="Arch Demon" point-x="5696" point-y="660" />
+					<rune name="Lich Khan" point-x="6125" point-y="1376" />
+					<rune name="Destard C N" point-x="5199" point-y="798" />
+					<rune name="Champ Island North" point-x="298" point-y="3681" />
+					<rune name="Akor Altar" point-x="7007" point-y="936" />
+					<rune name="Shame Champ East" point-x="5538" point-y="189" />
+				</runebook>
+				<runebook serial="1101699401" itemID="8901">
+					<rune name="Buc's Tunnels" point-x="2685" point-y="2065" />
+					<rune name="covetous" point-x="2511" point-y="939" />
+					<rune name="cursed fortress" point-x="879" point-y="1689" />
+					<rune name="Deceit" point-x="4116" point-y="447" />
+					<rune name="Despise" point-x="1304" point-y="1062" />
+					<rune name="Destard" point-x="1163" point-y="2654" />
+					<rune name="fire" point-x="2927" point-y="3405" />
+					<rune name="Ice" point-x="1995" point-y="75" />
+					<rune name="Khaldun" point-x="1717" point-y="2987" />
+					<rune name="Shame" point-x="509" point-y="1561" />
+					<rune name="Spider cave" point-x="575" point-y="1633" />
+					<rune name="Terra Keep" point-x="5341" point-y="1576" />
+					<rune name="Wind" point-x="1358" point-y="892" />
+					<rune name="Wrong" point-x="2040" point-y="218" />
+					<rune name="Orc Dungeon" point-x="1018" point-y="1429" />
+					<rune name="Hyloth" point-x="4717" point-y="3827" />
+				</runebook>
+				<runebook serial="1096236664" itemID="8901">
+					<rune name="Deceit Lvl 5" point-x="6066" point-y="1401" />
+					<rune name="Covetous Lvl 5" point-x="7033" point-y="1098" />
+					<rune name="Hidden Valley Ranch" point-x="1671" point-y="2989" />
+					<rune name="Spirituality Ruins" point-x="1473" point-y="2497" />
+					<rune name="Hedge Maze" point-x="1163" point-y="2205" />
+					<rune name="Booty Island Crypts" point-x="3821" point-y="2071" />
+					<rune name="Exodus 1" point-x="2070" point-y="48" point-f="2" />
+					<rune name="Exodus 2" point-x="2037" point-y="53" point-f="2" />
+					<rune name="Fire Graveyard" point-x="5878" point-y="1455" />
+					<rune name="Sacrifice Crypts" point-x="3449" point-y="153" />
+					<rune name="Booty Dungeon" point-x="4228" point-y="1790" />
+					<rune name="Ankh West" point-x="29" point-y="1370" point-f="2" />
+					<rune name="Deceit Lvl 4 South" point-x="5309" point-y="732" />
+					<rune name="Grinch" point-x="6030" point-y="197" />
+					<rune name="Khaldun" point-x="1717" point-y="2995" />
+				</runebook>
+				<runebook serial="1096381674" itemID="8901">
+					<rune name="Fire 1" point-x="5714" point-y="1386" />
+					<rune name="Fire 2" point-x="5702" point-y="1305" />
+					<rune name="Fire 3" point-x="5791" point-y="1351" />
+					<rune name="Fire 4" point-x="5868" point-y="1354" />
+					<rune name="Fire 5 (Kill Fire El" point-x="5719" point-y="1319" />
+					<rune name="Fire 6" point-x="5780" point-y="1388" />
+					<rune name="Ilshenar 1" point-x="96" point-y="976" point-f="2" />
+					<rune name="Ilshenar 2" point-x="50" point-y="1106" point-f="2" />
+					<rune name="Destard Rare Spawn" point-x="5136" point-y="961" />
+					<rune name="Fall Dungeon" point-x="6847" point-y="162" />
+					<rune name="Deceit 4" point-x="5269" point-y="669" />
+				</runebook>
+				<runebook serial="1096383085" itemID="8901">
+					<rune name="Despise Lvl 3 Entran" point-x="5396" point-y="864" />
+					<rune name="Despise Lvl 3 #2" point-x="5394" point-y="784" />
+					<rune name="Despise Titan/Ogre L" point-x="5422" point-y="883" />
+					<rune name="Despise Lvl 3 #4" point-x="5450" point-y="985" />
+					<rune name="Fire Lvl 1" point-x="5799" point-y="1324" />
+					<rune name="Fire Lvl 2" point-x="5648" point-y="1338" />
+					<rune name="Fire Lvl 2 #2" point-x="5649" point-y="1322" />
+					<rune name="Ocllo West (Roam)" point-x="3521" point-y="2809" />
+					<rune name="Ocllo #2 (Roam)" point-x="3637" point-y="2761" />
+					<rune name="Booty Island" point-x="3983" point-y="2234" />
+					<rune name="Booty Island #2" point-x="3890" point-y="2072" />
+					<rune name="Exodus" point-x="1970" point-y="58" point-f="2" />
+					<rune name="Grotto" point-x="2988" point-y="2896" />
+				</runebook>
+				<runebook serial="1092824399" itemID="8901">
+					<rune name="Ancient Lich 1" point-x="5264" point-y="686" />
+					<rune name="Ancient lich 2" point-x="6071" point-y="1384" />
+					<rune name="Ancient lich 3" point-x="5303" point-y="735" />
+					<rune name="Ancient lich 4" point-x="3414" point-y="116" />
+					<rune name="Ancient lich 5" point-x="7010" point-y="1061" />
+					<rune name="Ancient lich 6" point-x="5876" point-y="1484" />
+					<rune name="Ancient lich 7" point-x="1461" point-y="2502" />
+				</runebook>
+				<runebook serial="1074237162" itemID="8901">
+					<rune name="Britain East" point-x="1648" point-y="1619" />
+					<rune name="Vesper" point-x="2892" point-y="686" />
+					<rune name="Minoc" point-x="2510" point-y="563" />
+					<rune name="Trinsic West" point-x="1824" point-y="2820" />
+					<rune name="Trinsic North" point-x="1908" point-y="2689" />
+					<rune name="Skara Brae" point-x="596" point-y="2137" />
+					<rune name="Serpents Hold" point-x="2883" point-y="3474" />
+					<rune name="NuJelm" point-x="3753" point-y="1318" />
+					<rune name="Magincia" point-x="3795" point-y="2247" />
+					<rune name="Jhelom" point-x="1319" point-y="3758" />
+					<rune name="Cove" point-x="2235" point-y="1200" />
+					<rune name="Yew" point-x="656" point-y="817" />
+					<rune name="Moonglow" point-x="4460" point-y="1172" />
+					<rune name="Bucs Den" point-x="2720" point-y="2188" />
+				</runebook>
+				<runebook serial="1097929927" itemID="8901">
+					<rune name="Despise 1" point-x="5448" point-y="530" />
+					<rune name="Despise 2" point-x="5425" point-y="615" />
+					<rune name="Despise 3" point-x="5463" point-y="616" />
+					<rune name="Swamp 1" point-x="2068" point-y="992" />
+					<rune name="Swamp 2" point-x="1923" point-y="2394" />
+					<rune name="Swamp 3" point-x="1134" point-y="2748" />
+					<rune name="Destard 1" point-x="5263" point-y="773" />
+				</runebook>
+				<runebook serial="1105550548" itemID="8901">
+					<rune name="Deceit 1" point-x="6052" point-y="1376" />
+					<rune name="Deceit 2" point-x="6080" point-y="1340" />
+					<rune name="Exodus 1" point-x="1920" point-y="46" point-f="2" />
+					<rune name="Exodus 2" point-x="2038" point-y="54" point-f="2" />
+					<rune name="Exodus 3" point-x="1955" point-y="174" point-f="2" />
+				</runebook>
+				<runebook serial="1101642329" itemID="8901">
+					<rune name="Amoeba" point-x="2161" point-y="3994" />
+					<rune name="Bald" point-x="2370" point-y="3379" />
+					<rune name="Barrier" point-x="2106" point-y="2788" />
+					<rune name="Blanche" point-x="2197" point-y="1992" />
+					<rune name="Dagger" point-x="4053" point-y="491" />
+					<rune name="Dragon" point-x="1034" point-y="3205" />
+					<rune name="Eiffle" point-x="1717" point-y="2014" />
+					<rune name="Horseshoe" point-x="2081" point-y="2152" />
+					<rune name="Ivers" point-x="453" point-y="2072" />
+					<rune name="Marble" point-x="1907" point-y="2150" />
+					<rune name="Ocarina" point-x="2024" point-y="1957" />
+					<rune name="Skull Island" point-x="2967" point-y="2127" />
+					<rune name="Temple" point-x="2490" point-y="3536" />
+					<rune name="Tiny Dot" point-x="1505" point-y="363" />
+					<rune name="Valor" point-x="2415" point-y="3877" />
+					<rune name="Brit Moongate" point-x="1334" point-y="1999" />
+				</runebook>
+				<runebook serial="1101200983" itemID="8901">
+					<rune name="Jan Snow Ele" point-x="5792" point-y="148" />
+					<rune name="feb ogre lord" point-x="1668" point-y="2472" />
+					<rune name="March Lizard Man" point-x="1945" point-y="2386" />
+					<rune name="April Lich" point-x="776" point-y="1394" />
+					<rune name="May Balrons" point-x="6030" point-y="197" />
+					<rune name="June Gazer" point-x="5516" point-y="181" />
+					<rune name="July Demon Road" point-x="7063" point-y="730" />
+					<rune name="August Dragon" point-x="2535" point-y="3559" />
+					<rune name="September Ettin" point-x="2889" point-y="401" />
+					<rune name="October Earth Elemen" point-x="5384" point-y="61" />
+					<rune name="november terathan wa" point-x="1923" point-y="2276" />
+					<rune name="December Ratmen" point-x="5813" point-y="582" />
+				</runebook>
+				<runebook serial="1101221707" itemID="8901">
+					<rune name="Occlo Bank" point-x="3684" point-y="2525" />
+					<rune name="Brit Stable" point-x="1504" point-y="1548" />
+					<rune name="Sede ITE" point-x="867" point-y="887" />
+					<rune name="Stable Nujelm" point-x="3767" point-y="1299" />
+					<rune name="Britain South" point-x="1535" point-y="1663" />
+					<rune name="Yew Bank" point-x="650" point-y="857" />
+					<rune name="yew rune" point-x="721" point-y="731" />
+					<rune name="Rune Moonglow" point-x="4462" point-y="1231" />
+					<rune name="Trinsic Rune" point-x="1914" point-y="2708" />
+					<rune name="Trinsic Reag" point-x="1810" point-y="2778" />
+					<rune name="Britain West" point-x="1435" point-y="1669" />
+					<rune name="Britain Est" point-x="1652" point-y="1616" />
+					<rune name="Casa Hyth" point-x="4572" point-y="3130" />
+					<rune name="Moonglow" point-x="4298" point-y="1024" />
+					<rune name="Casa Cossi" point-x="2875" point-y="54" />
+					<rune name="ITE" point-x="2696" point-y="590" />
+				</runebook>
+				<runebook serial="1104840211" itemID="8901">
+					<rune name="Deceit 5 Rotating Sp" point-x="6071" point-y="1398" />
+					<rune name="Covetous 5" point-x="7033" point-y="1098" />
+					<rune name="Hidden Valley Ranch" point-x="1671" point-y="2989" />
+					<rune name="Spirituality Ruins" point-x="1475" point-y="2495" />
+					<rune name="Booty Island Crypts" point-x="3821" point-y="2071" />
+					<rune name="Exodus NE" point-x="2070" point-y="40" point-f="2" />
+					<rune name="Exodus NE 2" point-x="2024" point-y="40" point-f="2" />
+					<rune name="Sacrifice Crypts" point-x="3462" point-y="153" />
+					<rune name="Ankh West" point-x="34" point-y="1370" point-f="2" />
+					<rune name="Grinch" point-x="6030" point-y="197" />
+					<rune name="Khaldun" point-x="1717" point-y="2995" />
+					<rune name="Hedge Maze" point-x="1163" point-y="2205" />
+					<rune name="Booty Dungeon" point-x="4218" point-y="1797" />
+					<rune name="Deceit 4 Rotating Sp" point-x="5268" point-y="684" />
+					<rune name="Fire Graveyard" point-x="5836" point-y="1491" />
+					<rune name="Winter Dungeon" point-x="6230" point-y="1475" point-f="1" />
+				</runebook>
+				<runebook serial="1089874502" itemID="8901">
+					<rune name="Ankh Exit" point-x="10" point-y="874" point-f="2" />
+					<rune name="Ank Poison Nord" point-x="67" point-y="866" point-f="2" />
+					<rune name="Ankh Lake " point-x="116" point-y="914" point-f="2" />
+					<rune name="Ankh Shadow Dragon" point-x="12" point-y="929" point-f="2" />
+					<rune name="Ankh Barlon" point-x="35" point-y="1062" point-f="2" />
+					<rune name="Ankh blood" point-x="36" point-y="1478" point-f="2" />
+					<rune name="Ankh Dragons" point-x="7" point-y="1038" point-f="2" />
+					<rune name="Ank Verite" point-x="98" point-y="1037" point-f="2" />
+					<rune name="Ank Valorite" point-x="75" point-y="992" point-f="2" />
+					<rune name="Ankh Entrance" point-x="45" point-y="1164" point-f="2" />
+					<rune name="Ank Before night" point-x="128" point-y="1147" point-f="2" />
+					<rune name="Ankh Pyro Iron" point-x="59" point-y="1096" point-f="2" />
+					<rune name="Ankh new wyrm" point-x="102" point-y="1420" point-f="2" />
+					<rune name="Night Ankh Inside" point-x="57" point-y="1270" point-f="2" />
+				</runebook>
+				<runebook serial="1173205405" itemID="8901">
+					<rune name="HOME" point-x="1791" point-y="3302" />
+					<rune name="Casa UIZ" point-x="1679" point-y="1499" />
+					<rune name="BLOOD TOWER" point-x="1167" point-y="1691" />
+					<rune name="Stable Brit" point-x="1504" point-y="1548" />
+					<rune name="GODZ" point-x="1254" point-y="1673" />
+					<rune name="CIMI SE" point-x="1398" point-y="1488" />
+					<rune name="CIMI SW" point-x="1330" point-y="1506" />
+					<rune name="Ress Ankh" point-x="1164" point-y="1830" />
+					<rune name="Sloth" point-x="1286" point-y="1780" />
+					<rune name="Gruesome" point-x="1401" point-y="1743" />
+					<rune name="ITE" point-x="2696" point-y="590" />
+					<rune name="IDOC" point-x="4029" point-y="270" />
+				</runebook>
+				<runebook serial="1099696383" itemID="8901">
+					<rune name="Ankh Dungeon" point-x="1984" point-y="2066" />
+					<rune name="Ankh II" point-x="36" point-y="895" point-f="2" />
+					<rune name="Exodus" point-x="275" point-y="776" />
+					<rune name="Booty Dungeon" point-x="4231" point-y="1793" />
+					<rune name="Asylum" point-x="1132" point-y="2228" />
+					<rune name="Shame 4" point-x="5877" point-y="30" />
+					<rune name="SHAME V" point-x="5195" point-y="1291" />
+					<rune name="Demon Temple" point-x="4543" point-y="3663" />
+					<rune name="Cove 3" point-x="2540" point-y="859" />
+					<rune name="Cove 4" point-x="7106" point-y="1095" />
+					<rune name="Abyss spawn" point-x="7052" point-y="734" />
+					<rune name="Abyss tele down spot" point-x="6990" point-y="802" />
+					<rune name="DESPISE DEEP" point-x="5426" point-y="965" />
+					<rune name="Liches Deciete" point-x="5299" point-y="667" />
+					<rune name="Fire LL" point-x="5747" point-y="1357" />
+					<rune name="Montor" point-x="1108" point-y="2594" />
+				</runebook>
+				<runebook serial="1083774548" itemID="8901">
+					<rune name="86 HQ" point-x="1810" point-y="3304" />
+					<rune name="86 NO-CUT" point-x="1286" point-y="1673" />
+					<rune name="PAPADAKS" point-x="1721" point-y="776" />
+					<rune name="MOONS CAVE HOUSE" point-x="6975" point-y="2860" />
+					<rune name="BLACKEAGLES" point-x="4701" point-y="3396" />
+					<rune name="ATHLEETS" point-x="2100" point-y="757" />
+					<rune name="Stronghold" point-x="891" point-y="1910" />
+				</runebook>
+				<runebook serial="1120354633" itemID="8901">
+					<rune name="145" point-x="2096" point-y="3384" />
+					<rune name="146" point-x="2149" point-y="3362" />
+					<rune name="147" point-x="2370" point-y="3428" />
+					<rune name="148" point-x="2342" point-y="3482" />
+					<rune name="149" point-x="2360" point-y="3507" />
+					<rune name="150" point-x="2387" point-y="3506" />
+					<rune name="151" point-x="2467" point-y="3580" />
+					<rune name="152" point-x="2481" point-y="3623" />
+					<rune name="153" point-x="2527" point-y="3585" />
+					<rune name="154" point-x="2534" point-y="3609" />
+					<rune name="155" point-x="2797" point-y="3452" />
+					<rune name="156" point-x="2803" point-y="3488" />
+					<rune name="157" point-x="2792" point-y="3520" />
+					<rune name="158" point-x="2831" point-y="3510" />
+					<rune name="159" point-x="2989" point-y="3605" />
+					<rune name="160" point-x="3035" point-y="3602" />
+				</runebook>
+				<runebook serial="1120350162" itemID="8901">
+					<rune name="65" point-x="2034" point-y="1942" />
+					<rune name="66" point-x="2054" point-y="1963" />
+					<rune name="67" point-x="2065" point-y="1979" />
+					<rune name="68" point-x="2058" point-y="1990" />
+					<rune name="69" point-x="2070" point-y="2007" />
+					<rune name="70" point-x="2062" point-y="1962" />
+					<rune name="71" point-x="2098" point-y="1976" />
+					<rune name="72" point-x="2089" point-y="1987" />
+					<rune name="73" point-x="2093" point-y="2006" />
+					<rune name="74" point-x="2188" point-y="1991" />
+					<rune name="75" point-x="1426" point-y="2405" />
+					<rune name="76" point-x="1434" point-y="2381" />
+					<rune name="77" point-x="1470" point-y="2340" />
+					<rune name="78" point-x="1451" point-y="2301" />
+					<rune name="79" point-x="1436" point-y="2294" />
+					<rune name="80" point-x="1438" point-y="2217" />
+				</runebook>
+				<runebook serial="1089885789" itemID="8901">
+					<rune name="Shame 4-2" point-x="5841" point-y="61" />
+					<rune name="Shame 4-3" point-x="5822" point-y="54" />
+					<rune name="Shame 4-4" point-x="5720" point-y="10" />
+					<rune name="Shame 4-5" point-x="5674" point-y="9" />
+					<rune name="Shame 4-6" point-x="5666" point-y="94" />
+					<rune name="Shame 4-7" point-x="5795" point-y="117" />
+					<rune name="Shame 5" point-x="5128" point-y="1294" />
+					<rune name="Shame 5-2" point-x="5198" point-y="1313" />
+					<rune name="Hythloth" point-x="4724" point-y="3819" />
+					<rune name="Hythloth 1" point-x="5912" point-y="24" />
+					<rune name="Hythloth 1-2" point-x="5904" point-y="108" />
+					<rune name="Hythloth 2" point-x="5990" point-y="174" />
+					<rune name="Hythloth 2-2" point-x="5952" point-y="200" />
+					<rune name="Hythloth 2-3" point-x="5912" point-y="174" />
+					<rune name="Hythloth 3" point-x="6080" point-y="157" />
+					<rune name="Hythloth 3-1" point-x="6030" point-y="197" />
+				</runebook>
+				<runebook serial="1099695829" itemID="8901">
+					<rune name="Coveteous III" point-x="5593" point-y="1840" />
+					<rune name="Destard I South" point-x="5246" point-y="1004" />
+					<rune name="Destard I North" point-x="5250" point-y="775" />
+					<rune name="Destard II" point-x="5125" point-y="853" />
+					<rune name="Dragon Isle" point-x="2535" point-y="3559" />
+					<rune name="Daemon Temple" point-x="4624" point-y="3571" />
+					<rune name="Grinch's Grotto" point-x="6030" point-y="197" />
+					<rune name="Wind" point-x="5248" point-y="209" />
+					<rune name="Grotto (Sail South)" point-x="2971" point-y="2198" />
+					<rune name="Booty" point-x="3888" point-y="2126" />
+					<rune name="Hyth Gazers I" point-x="5984" point-y="30" />
+					<rune name="Hyth Gazers IV" point-x="6065" point-y="49" />
+					<rune name="Shame Gazers" point-x="5507" point-y="180" />
+				</runebook>
+				<runebook serial="1112698545" itemID="8901">
+					<rune name="Deceit" point-x="4104" point-y="431" />
+					<rune name="Destard" point-x="1167" point-y="2639" />
+					<rune name="Despise" point-x="1297" point-y="1075" />
+					<rune name="Covetous" point-x="2495" point-y="924" />
+					<rune name="Shame" point-x="509" point-y="1561" />
+					<rune name="Hyloth" point-x="4721" point-y="3816" />
+					<rune name="Ice" point-x="1998" point-y="79" />
+					<rune name="Fire" point-x="2926" point-y="3406" />
+					<rune name="Orc Caves" point-x="1013" point-y="1429" />
+					<rune name="Wind" point-x="1360" point-y="896" />
+					<rune name="Del Passage" point-x="1631" point-y="3321" />
+					<rune name="Wrong" point-x="2042" point-y="221" />
+					<rune name="Fire Temple" point-x="4585" point-y="3642" />
+					<rune name="Bucs Den Tunnel" point-x="2673" point-y="2246" />
+					<rune name="Spider Cave" point-x="575" point-y="1633" />
+					<rune name="Khaldun" point-x="1715" point-y="2994" />
+				</runebook>
+				<runebook serial="1120349151" itemID="8901">
+					<rune name="1" point-x="961" point-y="506" />
+					<rune name="2" point-x="1162" point-y="189" />
+					<rune name="3" point-x="1315" point-y="317" />
+					<rune name="4" point-x="1469" point-y="230" />
+					<rune name="5" point-x="1504" point-y="364" />
+					<rune name="6" point-x="2672" point-y="392" />
+					<rune name="7" point-x="2741" point-y="435" />
+					<rune name="8" point-x="2770" point-y="345" />
+					<rune name="9" point-x="2781" point-y="289" />
+					<rune name="10" point-x="2836" point-y="233" />
+					<rune name="11" point-x="3014" point-y="250" />
+					<rune name="12" point-x="3082" point-y="202" />
+					<rune name="13" point-x="1028" point-y="1181" />
+					<rune name="14" point-x="1318" point-y="889" />
+					<rune name="15" point-x="1414" point-y="771" />
+					<rune name="16" point-x="1530" point-y="753" />
+				</runebook>
+				<runebook serial="1081155730" itemID="8901">
+					<rune name="Deciet entrances" point-x="4107" point-y="431" />
+					<rune name="Deciet 1" point-x="5184" point-y="551" />
+					<rune name="Deciet 2" point-x="5304" point-y="539" />
+					<rune name="Deciet 2-1" point-x="5306" point-y="629" />
+					<rune name="Deciet 3" point-x="5140" point-y="648" />
+					<rune name="Deciet 3-1" point-x="5217" point-y="758" />
+					<rune name="Deciet 4" point-x="5299" point-y="666" />
+					<rune name="Deciet V" point-x="6118" point-y="1378" />
+					<rune name="Destard Entrance" point-x="1168" point-y="2639" />
+					<rune name="Destard water eles" point-x="5328" point-y="981" />
+					<rune name="Destard 1-1" point-x="5125" point-y="914" />
+					<rune name="Destard 1-2" point-x="5184" point-y="917" />
+					<rune name="Destard Champ 1" point-x="5314" point-y="851" />
+					<rune name="Destard Champ II" point-x="5210" point-y="778" />
+					<rune name="Destard 2" point-x="5165" point-y="860" />
+					<rune name="Destard 3" point-x="5165" point-y="1010" />
+				</runebook>
+				<runebook serial="1127676691" itemID="8901">
+					<rune name="Brit West" point-x="1429" point-y="1704" />
+					<rune name="Brit East" point-x="1658" point-y="1616" />
+					<rune name="Bucc's Den" point-x="2731" point-y="2189" />
+					<rune name="Cove" point-x="2238" point-y="1193" />
+					<rune name="Jhelom" point-x="1322" point-y="3761" />
+					<rune name="Minoc" point-x="2498" point-y="561" />
+					<rune name="Moonglow" point-x="4451" point-y="1167" />
+					<rune name="Magincia" point-x="3697" point-y="2198" />
+					<rune name="Nu'Jelm" point-x="3756" point-y="1320" />
+					<rune name="Occlo" point-x="3690" point-y="2523" />
+					<rune name="Serp's Hold" point-x="2892" point-y="3476" />
+					<rune name="Skara Brae" point-x="588" point-y="2155" />
+					<rune name="Trinsic" point-x="1896" point-y="2684" />
+					<rune name="Vesper" point-x="2893" point-y="684" />
+					<rune name="Wind" point-x="5344" point-y="90" />
+					<rune name="Yew" point-x="660" point-y="815" />
+				</runebook>
+				<runebook serial="1133412232" itemID="8901">
+					<rune name="Asylum" point-x="1132" point-y="2229" />
+					<rune name="Grinch's Lair" point-x="6030" point-y="197" />
+					<rune name="Minax Base" point-x="1123" point-y="2596" />
+					<rune name="Temple Courtyard" point-x="4150" point-y="2130" />
+					<rune name="Temple Outside South" point-x="4148" point-y="2149" />
+					<rune name="Temple Outside East" point-x="4183" point-y="2117" />
+					<rune name="Temple Top Entrance" point-x="4150" point-y="2095" />
+					<rune name="Temple NW Corner" point-x="4124" point-y="2087" />
+					<rune name="Temple NE Corner" point-x="4176" point-y="2087" />
+					<rune name="Temple Bottom Level" point-x="4150" point-y="2095" />
+					<rune name="Temple Bottom NW " point-x="4124" point-y="2086" />
+					<rune name="Temple Bottom NE Cor" point-x="4176" point-y="2087" />
+				</runebook>
+				<runebook serial="1101196148" itemID="8901">
+					<rune name="193" point-x="3418" point-y="2675" />
+					<rune name="194" point-x="3533" point-y="2471" />
+					<rune name="195" point-x="3511" point-y="2421" />
+					<rune name="196" point-x="3568" point-y="2402" />
+					<rune name="197" point-x="3702" point-y="2825" />
+					<rune name="198" point-x="3594" point-y="2826" />
+					<rune name="199" point-x="3557" point-y="2820" />
+					<rune name="200" point-x="3541" point-y="2784" />
+				</runebook>
+				<runebook serial="1120349568" itemID="8901">
+					<rune name="161" point-x="2154" point-y="3983" />
+					<rune name="162" point-x="2144" point-y="3985" />
+					<rune name="163" point-x="2140" point-y="3941" />
+					<rune name="164" point-x="2157" point-y="3925" />
+					<rune name="165" point-x="2152" point-y="3951" />
+					<rune name="166" point-x="2162" point-y="3988" />
+					<rune name="167" point-x="2452" point-y="3942" />
+					<rune name="168" point-x="2421" point-y="3929" />
+					<rune name="169" point-x="2414" point-y="3920" />
+					<rune name="170" point-x="2437" point-y="3898" />
+					<rune name="171" point-x="2481" point-y="3908" />
+					<rune name="172" point-x="2512" point-y="3899" />
+					<rune name="173" point-x="2512" point-y="3919" />
+					<rune name="174" point-x="2512" point-y="3962" />
+					<rune name="175" point-x="2527" point-y="3982" />
+					<rune name="176" point-x="2516" point-y="3998" />
+				</runebook>
+				<runebook serial="1120350788" itemID="8901">
+					<rune name="49" point-x="1038" point-y="1976" />
+					<rune name="50" point-x="1024" point-y="1991" />
+					<rune name="51" point-x="974" point-y="1992" />
+					<rune name="52" point-x="989" point-y="1993" />
+					<rune name="53" point-x="451" point-y="2054" />
+					<rune name="54" point-x="478" point-y="2043" />
+					<rune name="55" point-x="492" point-y="2027" />
+					<rune name="56" point-x="468" point-y="2087" />
+					<rune name="57" point-x="466" point-y="2100" />
+					<rune name="58" point-x="1657" point-y="2030" />
+					<rune name="59" point-x="1689" point-y="1993" />
+					<rune name="60" point-x="1709" point-y="1964" />
+					<rune name="61" point-x="1725" point-y="1999" />
+					<rune name="62" point-x="1732" point-y="2017" />
+					<rune name="63" point-x="1742" point-y="2028" />
+					<rune name="64" point-x="1753" point-y="2020" />
+				</runebook>
+				<runebook serial="1133459975" itemID="8901">
+					<rune name="Despise entrance" point-x="1298" point-y="1074" />
+					<rune name="Despise entrance inside" point-x="5579" point-y="626" />
+					<rune name="Despise I" point-x="5498" point-y="573" />
+					<rune name="Despise 1-2" point-x="5392" point-y="589" />
+					<rune name="Despise 2-1" point-x="5513" point-y="671" />
+					<rune name="Despise 2-2" point-x="5414" point-y="665" />
+					<rune name="Despise 2-3" point-x="5391" point-y="744" />
+					<rune name="Despise 3" point-x="5400" point-y="870" />
+					<rune name="Despise 3-2" point-x="5428" point-y="964" />
+					<rune name="Despise 3-3" point-x="5473" point-y="786" />
+					<rune name="Despise Champ I" point-x="5496" point-y="839" />
+					<rune name="Despise Champ II" point-x="5620" point-y="783" />
+					<rune name="Despise Ankh" point-x="5570" point-y="912" />
+					<rune name="Covetous Entrace" point-x="2495" point-y="922" />
+					<rune name="Covetous 1-1" point-x="5503" point-y="1889" />
+					<rune name="Covetous 1-2" point-x="5393" point-y="1882" />
+				</runebook>
+				<runebook serial="1106672274" itemID="8901">
+					<rune name="Shame" point-x="505" point-y="1568" />
+					<rune name="Shame 1" point-x="5494" point-y="24" />
+					<rune name="Shame 2" point-x="5512" point-y="18" />
+					<rune name="Shame 2-2" point-x="5569" point-y="66" />
+					<rune name="Shame 2-3" point-x="5545" point-y="92" />
+					<rune name="Shame 2-4" point-x="5594" point-y="67" />
+					<rune name="Shame 2-5" point-x="5598" point-y="101" />
+					<rune name="Shame 3" point-x="5520" point-y="137" />
+					<rune name="Shame 3-1" point-x="5472" point-y="201" />
+					<rune name="Shame 3-2" point-x="5451" point-y="222" />
+					<rune name="Shame 3-3" point-x="5612" point-y="148" />
+					<rune name="Shame 3-4" point-x="5559" point-y="229" />
+					<rune name="Shame 3-5" point-x="5525" point-y="209" />
+					<rune name="Shame Gazer" point-x="5517" point-y="175" />
+					<rune name="Shame Gazer 2" point-x="5509" point-y="165" />
+					<rune name="Shame 4" point-x="5877" point-y="30" />
+				</runebook>
+				<runebook serial="1113706269" itemID="8901">
+					<rune name="Covetous 1-3" point-x="5392" point-y="1948" />
+					<rune name="Covetous pass 1" point-x="2415" point-y="895" />
+					<rune name="Covetous pass 1-2" point-x="2388" point-y="834" />
+					<rune name="Covetous 2" point-x="5608" point-y="1996" />
+					<rune name="Covetous 2-2" point-x="5519" point-y="2012" />
+					<rune name="Covetous 2-3" point-x="5452" point-y="2006" />
+					<rune name="Covetous 2-4" point-x="5388" point-y="2012" />
+					<rune name="Covetous Pass 2" point-x="2451" point-y="869" />
+					<rune name="Covetous Pass 2-1" point-x="2544" point-y="861" />
+					<rune name="Covetous 3" point-x="5582" point-y="1918" />
+					<rune name="Covetous 3-2" point-x="5588" point-y="1844" />
+					<rune name="Covetous 3-3" point-x="5564" point-y="1863" />
+					<rune name="Covetous Shadow wyrm" point-x="5470" point-y="1799" />
+					<rune name="Covetous Cell Level" point-x="5534" point-y="1808" />
+					<rune name="Covetous 4" point-x="6937" point-y="1099" />
+					<rune name="Covetous 4-2" point-x="7079" point-y="1020" />
+				</runebook>
+				<runebook serial="1079730051" itemID="8901">
+					<rune name="Despise 1" point-x="5448" point-y="678" />
+					<rune name="Shame 1" point-x="5386" point-y="66" />
+					<rune name="Shame 3" point-x="5409" point-y="157" />
+					<rune name="Orc Cave" point-x="5361" point-y="2002" />
+					<rune name="Grotto" point-x="2985" point-y="2897" />
+					<rune name="Kirin Pass" point-x="47" point-y="909" point-f="2" />
+				</runebook>
+				<runebook serial="1094930760" itemID="8901">
+					<rune name="Despise Ettins" point-x="5448" point-y="678" />
+					<rune name="North Brit" point-x="1460" point-y="1396" />
+					<rune name="Trinsic Ettin Tower" point-x="1690" point-y="2482" />
+					<rune name="Despise Lower Level" point-x="5409" point-y="863" />
+					<rune name="Cross Roads" point-x="978" point-y="1943" />
+					<rune name="Guard tower 2" point-x="1424" point-y="2103" />
+					<rune name="ettin tower inside" point-x="1691" point-y="2469" />
+				</runebook>
+				<runebook serial="1120356777" itemID="8901">
+					<rune name="177" point-x="4476" point-y="3282" />
+					<rune name="178" point-x="4477" point-y="3230" />
+					<rune name="179" point-x="4465" point-y="3210" />
+					<rune name="180" point-x="4425" point-y="3152" />
+					<rune name="181" point-x="4420" point-y="3117" />
+					<rune name="182" point-x="4449" point-y="3130" />
+					<rune name="183" point-x="4453" point-y="3148" />
+					<rune name="184" point-x="4501" point-y="3108" />
+					<rune name="185" point-x="4513" point-y="3104" />
+					<rune name="186" point-x="4470" point-y="3188" />
+					<rune name="187" point-x="4506" point-y="3227" />
+					<rune name="188" point-x="4495" point-y="3242" />
+					<rune name="189" point-x="4641" point-y="3369" />
+					<rune name="190" point-x="4694" point-y="3486" />
+					<rune name="191" point-x="3477" point-y="2762" />
+					<rune name="192" point-x="3426" point-y="2723" />
+				</runebook>
+				<runebook serial="1120353879" itemID="8901">
+					<rune name="17" point-x="1555" point-y="806" />
+					<rune name="19" point-x="1561" point-y="1058" />
+					<rune name="20" point-x="1510" point-y="1071" />
+					<rune name="21" point-x="2339" point-y="645" />
+					<rune name="22" point-x="2350" point-y="689" />
+					<rune name="23" point-x="2396" point-y="723" />
+					<rune name="18" point-x="1510" point-y="968" />
+					<rune name="24" point-x="2433" point-y="767" />
+					<rune name="25" point-x="2643" point-y="851" />
+					<rune name="26" point-x="2458" point-y="1042" />
+					<rune name="27" point-x="2517" point-y="1066" />
+					<rune name="28" point-x="2338" point-y="1159" />
+					<rune name="29" point-x="2393" point-y="1153" />
+					<rune name="30" point-x="3246" point-y="246" />
+					<rune name="31" point-x="3403" point-y="238" />
+					<rune name="32" point-x="3403" point-y="238" />
+				</runebook>
+				<runebook serial="1120349665" itemID="8901">
+					<rune name="33" point-x="3369" point-y="638" />
+					<rune name="34" point-x="199" point-y="1460" />
+					<rune name="35" point-x="207" point-y="1444" />
+					<rune name="36" point-x="359" point-y="1337" />
+					<rune name="37" point-x="581" point-y="1453" />
+					<rune name="38" point-x="348" point-y="1565" />
+					<rune name="39" point-x="619" point-y="1706" />
+					<rune name="40" point-x="962" point-y="1859" />
+					<rune name="41" point-x="979" point-y="1850" />
+					<rune name="42" point-x="969" point-y="1894" />
+					<rune name="43" point-x="969" point-y="1884" />
+					<rune name="44" point-x="977" point-y="1880" />
+					<rune name="45" point-x="1017" point-y="1860" />
+					<rune name="46" point-x="1034" point-y="1877" />
+					<rune name="47" point-x="1039" point-y="1908" />
+					<rune name="48" point-x="1042" point-y="1960" />
+				</runebook>
+				<runebook serial="1107186072" itemID="8901">
+					<rune name="Hedge East" point-x="1175" point-y="2225" />
+					<rune name="Hedge Center" point-x="1168" point-y="2212" />
+					<rune name="Hedge West" point-x="1139" point-y="2248" />
+					<rune name="Dell Pass" point-x="5955" point-y="1291" />
+					<rune name="Fire II" point-x="5693" point-y="1342" />
+					<rune name="Wind East" point-x="5266" point-y="198" />
+					<rune name="Wind West" point-x="5164" point-y="147" />
+					<rune name="Deceit III" point-x="5280" point-y="693" />
+					<rune name="Daemon Temple" point-x="4599" point-y="3639" />
+					<rune name="Abyss" point-x="7070" point-y="729" />
+					<rune name="Trinsic Daemon Spawn" point-x="1915" point-y="3399" />
+					<rune name="Ankh Daemon" point-x="113" point-y="1408" point-f="2" />
+					<rune name="Grinch's Grotto" point-x="6030" point-y="197" />
+					<rune name="Ankh Daemons" point-x="126" point-y="1566" point-f="2" />
+					<rune name="Exo Daemon/Titan" point-x="1974" point-y="78" point-f="2" />
+					<rune name="Hyth Daemon" point-x="5993" point-y="158" />
+				</runebook>
+				<runebook serial="1120356870" itemID="8901">
+					<rune name="129" point-x="1563" point-y="2705" />
+					<rune name="130" point-x="1671" point-y="2808" />
+					<rune name="131" point-x="1601" point-y="3013" />
+					<rune name="132" point-x="1665" point-y="3063" />
+					<rune name="133" point-x="1068" point-y="3182" />
+					<rune name="134" point-x="1075" point-y="3156" />
+					<rune name="135" point-x="1073" point-y="3133" />
+					<rune name="136" point-x="1090" point-y="3110" />
+					<rune name="137" point-x="1093" point-y="3132" />
+					<rune name="138" point-x="1096" point-y="3179" />
+					<rune name="139" point-x="1130" point-y="3403" />
+					<rune name="140" point-x="1162" point-y="3468" />
+					<rune name="141" point-x="1127" point-y="3499" />
+					<rune name="142" point-x="1136" point-y="3446" />
+					<rune name="143" point-x="2014" point-y="3269" />
+					<rune name="144" point-x="2040" point-y="3427" />
+				</runebook>
+				<runebook serial="1120423152" itemID="8901">
+					<rune name="Jhelom Mage" point-x="1428" point-y="3994" />
+					<rune name="Magincia Mage" point-x="3676" point-y="2201" />
+					<rune name="Ocllo Mage" point-x="3637" point-y="2539" />
+					<rune name="Serpents Hold Mage" point-x="3003" point-y="3362" />
+					<rune name="Skara Brae Mage1" point-x="611" point-y="2187" />
+					<rune name="Skara Brae Mage2" point-x="658" point-y="2146" />
+					<rune name="Trinsic Mage" point-x="1855" point-y="2712" />
+					<rune name="Moonglow Mage 1" point-x="4454" point-y="1097" />
+					<rune name="Moonglow Mage 2" point-x="4546" point-y="876" />
+					<rune name="Moonglow Mage 3" point-x="4427" point-y="1111" />
+					<rune name="Vesper Mage 1" point-x="2915" point-y="683" />
+					<rune name="Vesper Mage 2" point-x="2883" point-y="658" />
+					<rune name="Brit Mage 1" point-x="1490" point-y="1568" />
+					<rune name="Brit Mage 2" point-x="1592" point-y="1667" />
+					<rune name="Brit Mage 3" point-x="1511" point-y="1658" />
+					<rune name="Yew Rune Library" point-x="734" point-y="776" />
+				</runebook>
+				<runebook serial="1077181674" itemID="8901">
+					<rune name="Hythloth Entrance" point-x="4722" point-y="3817" />
+					<rune name="Lvl 1 Bats/Hounds" point-x="5970" point-y="49" />
+					<rune name="Lvl 1 Prison Gazers" point-x="5982" point-y="30" />
+					<rune name="Lvl 1 Enslaved Garg" point-x="5955" point-y="101" />
+					<rune name="Lvl 2 Entrance" point-x="5972" point-y="171" />
+					<rune name="Lvl 2 Arcane Demons" point-x="5990" point-y="160" />
+					<rune name="Lvl 2 Magic Pass" point-x="5967" point-y="149" />
+					<rune name="Lvl 3 Entrance" point-x="6081" point-y="148" />
+					<rune name="Lvl 3 Balron" point-x="6095" point-y="174" />
+					<rune name="Lvl 3 Shadow Gazer" point-x="6126" point-y="180" />
+					<rune name="Lvl 3 Arcane Demons" point-x="6033" point-y="192" />
+					<rune name="Lvl 4 Balrons" point-x="6065" point-y="86" />
+					<rune name="Lvl 4 Bridge" point-x="6083" point-y="68" />
+					<rune name="Lvl 4 Pentagram" point-x="6070" point-y="49" />
+					<rune name="Lvl 4 East" point-x="6108" point-y="66" />
+				</runebook>
+				<runebook serial="1086109642" itemID="8901">
+					<rune name="Outside Entrance" point-x="1018" point-y="1433" />
+					<rune name="Inside Entrance" point-x="5137" point-y="2016" />
+					<rune name="L1 South" point-x="5154" point-y="1992" />
+					<rune name="L1 North" point-x="5134" point-y="1947" />
+					<rune name="L2 Blood Ele" point-x="5297" point-y="1332" />
+					<rune name="L2 Entrance" point-x="5332" point-y="1378" />
+					<rune name="L2 NorthEast" point-x="5364" point-y="1293" />
+					<rune name="L2 NorthWest (forges)" point-x="5299" point-y="1290" />
+					<rune name="L2 SouthEast" point-x="5364" point-y="1363" />
+					<rune name="L2 SouthWest" point-x="5313" point-y="1367" />
+					<rune name="L3 Entrance" point-x="5273" point-y="2036" />
+					<rune name="L3 East" point-x="5358" point-y="2002" />
+				</runebook>
+				<runebook serial="1086110709" itemID="8901">
+					<rune name="Khaldun" point-x="1717" point-y="2996" />
+					<rune name="Doorway" point-x="6257" point-y="881" />
+				</runebook>
+				<runebook serial="1077182793" itemID="8901">
+					<rune name="Del Pass Entrance" point-x="1629" point-y="3323" />
+					<rune name="Lvl 1 Efreet" point-x="5895" point-y="1388" />
+					<rune name="Lvl 1 Dread Spider" point-x="5913" point-y="1378" />
+					<rune name="Lvl 2 Entrance" point-x="5966" point-y="1407" />
+					<rune name="Lvl 2 Dread" point-x="5937" point-y="1302" />
+					<rune name="Lvl 2 Demon" point-x="5985" point-y="1306" />
+					<rune name="Lvl 2 Fire Eles" point-x="5913" point-y="1346" />
+					<rune name="Lvl 2 Efreet" point-x="5980" point-y="1371" />
+					<rune name="Lvl 2 Del Entrance" point-x="6003" point-y="1379" />
+					<rune name="Entrance City" point-x="6024" point-y="1345" />
+					<rune name="Lvl 2 Safe I" point-x="6038" point-y="1304" />
+					<rune name="Lvl 2 Safe II" point-x="5997" point-y="1288" />
+				</runebook>
+				<runebook serial="1077183535" itemID="8901">
+					<rune name="Wrong Entrance" point-x="2043" point-y="223" />
+					<rune name="Wrong Roof Ankh" point-x="2042" point-y="225" />
+					<rune name="Lvl 1 Ratmen" point-x="5799" point-y="574" />
+					<rune name="Lvl 1 Orgre Lords" point-x="5821" point-y="543" />
+					<rune name="Lvl 1 Rats Safe" point-x="5792" point-y="530" />
+					<rune name="Lvl 1 Safe Spot 2" point-x="5862" point-y="528" />
+					<rune name="Lvl 2 East OL" point-x="5713" point-y="563" />
+					<rune name="Lvl 2 West OL" point-x="5660" point-y="551" />
+					<rune name="Lvl 2 Teleporter" point-x="5691" point-y="567" />
+					<rune name="Lvl 2 Brigands" point-x="5693" point-y="543" />
+					<rune name="Lvl 3 Ancient Wyrm" point-x="5688" point-y="625" />
+				</runebook>
+				<runebook serial="1077183220" itemID="8901">
+					<rune name="Destard Entrance" point-x="1174" point-y="2639" />
+					<rune name="Lvl 1 Water Eles" point-x="5207" point-y="800" />
+					<rune name="Lvl 1 Ankh" point-x="5199" point-y="779" />
+					<rune name="Lvl 1Efreets" point-x="5250" point-y="813" />
+					<rune name="Lvl 1 Shadow Wyrm" point-x="5268" point-y="791" />
+					<rune name="Lvl 2 Entrance" point-x="5124" point-y="916" />
+					<rune name="Lvl 2 Gargoyles" point-x="5158" point-y="805" />
+					<rune name="Lvl 2 Evil Mages" point-x="5168" point-y="859" />
+					<rune name="Lvl 2 Shadow Wyrm" point-x="5126" point-y="847" />
+					<rune name="Lvl 3 Elder Fire" point-x="5139" point-y="980" />
+					<rune name="Lvl 3 Ancient Wyrm" point-x="5190" point-y="999" />
+				</runebook>
+				<runebook serial="1081098894" itemID="8901">
+					<rune name="Deceit Entrance" point-x="4108" point-y="433" />
+					<rune name="Lvl 1 Water Eles" point-x="5186" point-y="585" />
+					<rune name="Lvl 1 Prison" point-x="5144" point-y="565" />
+					<rune name="Lvl 2 Entrance" point-x="5308" point-y="532" />
+					<rune name="Lvl 2 Skeletons" point-x="5296" point-y="576" />
+					<rune name="Lvl 2 Hidden Room" point-x="5323" point-y="579" />
+					<rune name="Lvl 2 Skel Mages" point-x="5304" point-y="624" />
+					<rune name="Lvl 2 Bone Knights" point-x="5342" point-y="592" />
+					<rune name="Lvl 3 Entrance" point-x="5136" point-y="652" />
+					<rune name="Lvl 3 Champ Entr" point-x="5136" point-y="685" />
+					<rune name="Lvl 4 Entrance" point-x="5305" point-y="658" />
+					<rune name="Lvl 4 Lich Lords" point-x="5316" point-y="704" />
+					<rune name="Lvl 4 Back Room" point-x="5262" point-y="675" />
+					<rune name="Lvl 4 Skull Pit" point-x="5306" point-y="675" />
+					<rune name="Lvl 5 Entrance" point-x="6123" point-y="1380" />
+					<rune name="Lvl 5 ArcticOrgre" point-x="6040" point-y="1384" />
+				</runebook>
+				<runebook serial="1145881185" itemID="8901">
+					<rune name="Booty Island - 1" point-x="3987" point-y="2210" />
+					<rune name="Booty Island - 2" point-x="4015" point-y="2259" />
+					<rune name="Booty Island - 3" point-x="3894" point-y="2057" />
+					<rune name="Despise - L3 #1" point-x="5391" point-y="870" />
+					<rune name="Despise - L3 #2" point-x="5401" point-y="780" />
+					<rune name="Despise - L3 #3" point-x="5410" point-y="881" />
+					<rune name="Despise - L3 #4" point-x="5496" point-y="939" />
+					<rune name="Despise - L3 #5" point-x="5506" point-y="992" />
+					<rune name="Despise - L3 #6" point-x="5445" point-y="982" />
+					<rune name="Despise - L3 #7" point-x="5384" point-y="963" />
+					<rune name="Exodus - S. Titan" point-x="1952" point-y="78" point-f="2" />
+					<rune name="Fire - Level 1" point-x="5795" point-y="1326" />
+					<rune name="Fire - Level 2" point-x="5645" point-y="1327" />
+					<rune name="Ocllo" point-x="3730" point-y="2739" />
+				</runebook>
+				<runebook serial="1092158205" itemID="8901">
+					<rune name="Deceit L4 Balron" point-x="6063" point-y="1315" />
+					<rune name="Hyth l3 Balron1" point-x="6110" point-y="173" />
+					<rune name="Hyth L3 Balron2" point-x="6060" point-y="169" />
+					<rune name="Hyth L4 Balron" point-x="6064" point-y="86" />
+					<rune name="Terrathan Balron1" point-x="5307" point-y="1584" />
+					<rune name="Terrathan Balron2" point-x="5341" point-y="1572" />
+					<rune name="Fire L1 Balron" point-x="5651" point-y="1439" />
+					<rune name="Fire L2 Balron" point-x="5855" point-y="1367" />
+				</runebook>
+				<runebook serial="1080941283" itemID="8901">
+					<rune name="Wind Dragon" point-x="5238" point-y="207" />
+					<rune name="Covetus Dragon/Wyrm" point-x="5471" point-y="1804" />
+					<rune name="Ice WW 1" point-x="5759" point-y="162" />
+					<rune name="Ice WW 2" point-x="5672" point-y="207" />
+					<rune name="Destard L1 East" point-x="5323" point-y="987" />
+					<rune name="Destard L1 Mid" point-x="5279" point-y="906" />
+					<rune name="Destard Back" point-x="5313" point-y="813" />
+					<rune name="Destard Stairs 2L2" point-x="5123" point-y="914" />
+					<rune name="Destard L2 Shadow Wyrm" point-x="5134" point-y="831" />
+					<rune name="Fire Island Temple" point-x="4596" point-y="3564" />
+					<rune name="Temple Island" point-x="2476" point-y="3655" />
+				</runebook>
+				<runebook serial="1075319657" itemID="8901">
+					<rune name="Fire Demons" point-x="5686" point-y="1343" />
+					<rune name="Hythloth Stairs to IV" point-x="6038" point-y="192" />
+					<rune name="Ice Demon room" point-x="5686" point-y="311" />
+					<rune name="Deciet IV" point-x="5283" point-y="691" />
+					<rune name="Fire Balrons" point-x="5796" point-y="1295" />
+					<rune name="Hedge Maze" point-x="1147" point-y="2241" />
+					<rune name="Southern Demons" point-x="1916" point-y="3399" />
+					<rune name="Fire L2 MageTower" point-x="5650" point-y="1440" />
+				</runebook>
+				<runebook serial="1081105216" itemID="8901">
+					<rune name="Fire L1 Balron" point-x="5796" point-y="1295" />
+					<rune name="Fire L2 L/LL" point-x="5748" point-y="1371" />
+					<rune name="Fire L2 Titans/LL" point-x="5640" point-y="1338" />
+				</runebook>
+				<runebook serial="1081105356" itemID="8901">
+					<rune name="Cov L3 Entrance" point-x="2545" point-y="856" />
+					<rune name="Cov L3 East" point-x="5595" point-y="1904" />
+					<rune name="Cov L3 West" point-x="5562" point-y="1903" />
+					<rune name="Cov L3 Lich/Lords" point-x="5588" point-y="1844" />
+					<rune name="Cov L3 Shadow Wrym" point-x="5471" point-y="1804" />
+					<rune name="Undead Prison LL" point-x="5534" point-y="1814" />
+					<rune name="Deceit L3 Entrance" point-x="5136" point-y="652" />
+					<rune name="Deceit L3 Liches" point-x="5201" point-y="669" />
+					<rune name="Deceit L3 Balron/LL" point-x="5286" point-y="689" />
+					<rune name="Deceit L4 Entrance" point-x="6126" point-y="1376" />
+					<rune name="Deceit L4 Balrons" point-x="6063" point-y="1317" />
+					<rune name="Deceit L4 LL" point-x="6063" point-y="1377" />
+					<rune name="Despise L2 Titans/OL" point-x="5450" point-y="980" />
+					<rune name="Despise L2 Titans/OL" point-x="5424" point-y="881" />
+					<rune name="Fire L1 L/LL" point-x="5832" point-y="1491" />
+					<rune name="Fire L1 Titans" point-x="5654" point-y="1316" />
+				</runebook>
+				<runebook serial="1092165029" itemID="8901">
+					<rune name="Ankh Dungeon 1" point-x="81" point-y="1531" point-f="2" />
+					<rune name="Ankh 1" point-x="142" point-y="1508" point-f="2" />
+					<rune name="Ankh Lvl2" point-x="12" point-y="873" point-f="2" />
+					<rune name="Ankh L2" point-x="126" point-y="1153" point-f="2" />
+					<rune name="Ankh Serpentine Pass" point-x="394" point-y="1582" point-f="2" />
+					<rune name="S Kirin Passage" point-x="20" point-y="1191" point-f="2" />
+					<rune name="Exodus" point-x="272" point-y="768" />
+					<rune name="Exodus L2" point-x="1975" point-y="114" point-f="2" />
+					<rune name="Amazon Entrance" point-x="4202" point-y="1800" />
+					<rune name="Amazon Exit" point-x="6299" point-y="2282" />
+				</runebook>
+				<runebook serial="1086586137" itemID="8901">
+					<rune name="Hythloth" point-x="4722" point-y="3825" />
+					<rune name="Wind" point-x="1362" point-y="896" />
+					<rune name="Deciet" point-x="4108" point-y="434" />
+					<rune name="Destard" point-x="1169" point-y="2640" />
+					<rune name="Despise" point-x="1305" point-y="1067" />
+					<rune name="Covetus" point-x="2497" point-y="922" />
+					<rune name="Shame" point-x="507" point-y="1569" />
+					<rune name="Wrong" point-x="2031" point-y="228" />
+					<rune name="Fire" point-x="2926" point-y="3406" />
+					<rune name="Orc Dungeon" point-x="1017" point-y="1438" />
+					<rune name="Khaldun" point-x="1713" point-y="2988" />
+					<rune name="Spider Cave" point-x="575" point-y="1633" />
+					<rune name="Cursed Fortress" point-x="802" point-y="1680" />
+					<rune name="Buc's Tunnels" point-x="2683" point-y="2065" />
+					<rune name="Ice" point-x="1995" point-y="74" />
+					<rune name="Cove 4" point-x="6952" point-y="1094" />
+				</runebook>
+				<runebook serial="1095761977" itemID="8901">
+					<rune name="Ankh" point-x="1990" point-y="2065" />
+					<rune name="Asylum" point-x="1133" point-y="2228" />
+					<rune name="Covetous" point-x="2498" point-y="923" />
+					<rune name="CrystalCave" point-x="5820" point-y="48" />
+					<rune name="Deceit" point-x="4110" point-y="436" />
+					<rune name="Despise" point-x="1301" point-y="1080" />
+					<rune name="Destard" point-x="1171" point-y="2641" />
+					<rune name="Exodus" point-x="267" point-y="767" />
+					<rune name="Fire-Serpants-" point-x="2927" point-y="3407" />
+					<rune name="Gorgon" point-x="4207" point-y="1790" />
+					<rune name="Hythloth" point-x="4719" point-y="3824" />
+					<rune name="Ice" point-x="1999" point-y="81" />
+					<rune name="Khaldun" point-x="1717" point-y="2996" />
+					<rune name="OrcCave" point-x="1018" point-y="1433" />
+					<rune name="Shame" point-x="512" point-y="1562" />
+					<rune name="SolenHive" point-x="731" point-y="1446" />
+				</runebook>
+				<runebook serial="1077188788" itemID="8901">
+					<rune name="Spider Cave Entrance" point-x="586" point-y="1639" />
+					<rune name="South East Cave" point-x="5359" point-y="1697" />
+					<rune name="Den" point-x="5366" point-y="1710" />
+					<rune name="South Ophidians" point-x="5312" point-y="1752" />
+					<rune name="Bridge" point-x="5254" point-y="1684" />
+					<rune name="Ophids South West" point-x="5209" point-y="1656" />
+					<rune name="Keep Front" point-x="5340" point-y="1615" />
+					<rune name="Rope/Safe" point-x="5143" point-y="1702" />
+					<rune name="Keep Hallways" point-x="5147" point-y="1645" />
+					<rune name="Dread Spiders" point-x="5130" point-y="1589" />
+					<rune name="Keep Middle" point-x="5341" point-y="1572" />
+					<rune name="Keep Bridge" point-x="5274" point-y="1561" />
+					<rune name="Frosty" point-x="5304" point-y="1567" />
+				</runebook>
+				<runebook serial="1081105581" itemID="8901">
+					<rune name="Covetus Entrance" point-x="2498" point-y="920" />
+					<rune name="Lvl 1 Harpies" point-x="5476" point-y="1893" />
+					<rune name="Lvl 1 Gazers" point-x="5418" point-y="1876" />
+					<rune name="Lvl 1 Corpsers" point-x="5388" point-y="1914" />
+					<rune name="Level 2 Entrance" point-x="5614" point-y="1997" />
+					<rune name="Lvl 2 Harpies" point-x="5535" point-y="2018" />
+					<rune name="Lvl 2 Stone Harpies" point-x="5464" point-y="1980" />
+					<rune name="Lvl 2 Water/Dread" point-x="5467" point-y="2019" />
+					<rune name="Lvl 3 Entrance" point-x="2545" point-y="856" />
+					<rune name="Lvl 3 East" point-x="5595" point-y="1904" />
+					<rune name="Lvl 3 West" point-x="5561" point-y="1903" />
+					<rune name="Lvl 3 Throne Lich" point-x="5579" point-y="1875" />
+					<rune name="Lvl 3 Lich Lord" point-x="5617" point-y="1849" />
+					<rune name="Lvl 3 Stairs/Lake" point-x="5592" point-y="1841" />
+					<rune name="Lvl 3 Shadow Wyrm" point-x="5476" point-y="1803" />
+					<rune name="Cove 4" point-x="6927" point-y="1089" />
+				</runebook>
+				<runebook serial="1077189685" itemID="8901">
+					<rune name="Wind Entrance" point-x="1362" point-y="895" />
+					<rune name="Lvl 1 Liches" point-x="5192" point-y="197" />
+					<rune name="Lvl 1 Demon I" point-x="5286" point-y="187" />
+					<rune name="Lvl 1 Drags/Drakes" point-x="5253" point-y="212" />
+					<rune name="Lvl 2 Entrance" point-x="5199" point-y="74" />
+					<rune name="Lvl 2 Ancien Wyrm" point-x="5223" point-y="24" />
+				</runebook>
+				<runebook serial="1078317045" itemID="8901">
+					<rune name="Marble Island Macro Spot" point-x="1992" point-y="2063" />
+					<rune name="Coons Provo" point-x="5602" point-y="864" />
+					<rune name="Shame2 Safe" point-x="5394" point-y="168" />
+					<rune name="Deciet Table" point-x="5152" point-y="621" />
+					<rune name="Brit Sewers SE" point-x="6116" point-y="1492" />
+					<rune name="Fire Macro Spot" point-x="6029" point-y="1300" />
+					<rune name="Brit West UG" point-x="1431" point-y="1718" />
+					<rune name="macro spot wrong" point-x="5872" point-y="600" />
+					<rune name="Brit Basement" point-x="1431" point-y="1719" />
+					<rune name="Shame 2 Safe" point-x="5602" point-y="10" />
+					<rune name="Mage Tower Roof" point-x="5440" point-y="182" />
+					<rune name="Fire Training Room" point-x="5694" point-y="1348" />
+					<rune name="L2 Fire Lame Macro spot" point-x="5641" point-y="1424" />
+				</runebook>
+				<runebook serial="1090045453" itemID="8901">
+					<rune name="50 Timber/Boars" point-x="1378" point-y="1874" />
+					<rune name="55 Polar Bears" point-x="3986" point-y="590" />
+					<rune name="55 Walrus" point-x="3712" point-y="2027" />
+					<rune name="65 Scorpions" point-x="5425" point-y="69" />
+					<rune name="70 Gwolf/Gheart" point-x="2159" point-y="918" />
+					<rune name="75 Slep/Wwolf" point-x="4032" point-y="535" />
+					<rune name="75 Gbear/Gheart" point-x="4471" point-y="1288" />
+					<rune name="80.7 Lava Lizzards" point-x="5968" point-y="1349" />
+					<rune name="85 Ghearts" point-x="1567" point-y="707" />
+					<rune name="85 Hellhounds/cats" point-x="5778" point-y="1488" />
+					<rune name="85-GM small hellcats" point-x="6022" point-y="1345" />
+					<rune name="Destard GHearts" point-x="1177" point-y="2697" />
+				</runebook>
+				<runebook serial="1092166436" itemID="8901">
+					<rune name="Hyth 1st room" point-x="5992" point-y="93" />
+					<rune name="Hyth Alter" point-x="5990" point-y="49" />
+					<rune name="Hyth 2nd level" point-x="5976" point-y="173" />
+					<rune name="Hyth lvl 3 stairs" point-x="6080" point-y="151" />
+					<rune name="Hyth Balron" point-x="6062" point-y="191" />
+					<rune name="Hyth L3 Balron" point-x="6064" point-y="81" />
+					<rune name="Grinch's Grotto" point-x="6030" point-y="196" />
+					<rune name="Amazon Exit" point-x="6299" point-y="2282" />
+					<rune name="Amazon Exit" point-x="6299" point-y="2282" />
+					<rune name="Amazon Entrance" point-x="4205" point-y="1800" />
+					<rune name="Amazon Entrance" point-x="4203" point-y="1800" />
+					<rune name="Amazon Exit" point-x="6299" point-y="2282" />
+					<rune name="Amazon Entrance" point-x="4203" point-y="1800" />
+					<rune name="Amazon Exit" point-x="6299" point-y="2282" />
+				</runebook>
+				<runebook serial="1083509949" itemID="8901">
+					<rune name="Champ - Abyss" point-x="6947" point-y="713" />
+					<rune name="Champ - Covetous" point-x="7110" point-y="1096" />
+					<rune name="Champ - Deceit" point-x="5136" point-y="687" />
+					<rune name="Champ - Despise" point-x="5508" point-y="792" />
+					<rune name="Champ - Shame" point-x="5593" point-y="156" />
+					<rune name="Champ - Terathan" point-x="5145" point-y="1616" />
+					<rune name="Champ - Wrong" point-x="2044" point-y="231" />
+					<rune name="Arch Daemon West" point-x="5697" point-y="659" />
+					<rune name="Arch Daemon East" point-x="5703" point-y="660" />
+					<rune name="Altar - Covetous" point-x="7001" point-y="959" />
+					<rune name="Altar - Destard" point-x="5205" point-y="777" />
+					<rune name="Altar - Hyth" point-x="5989" point-y="68" />
+					<rune name="Chaos Shrine" point-x="1463" point-y="843" />
+					<rune name="Honor Shrine" point-x="1729" point-y="3528" />
+					<rune name="Valor Shrine" point-x="2495" point-y="3931" />
+					<rune name="Talisman Statue" point-x="2441" point-y="3929" />
+				</runebook>
+				<runebook serial="1148024482" itemID="8901">
+					<rune name="Hyth Altar" point-x="5985" point-y="69" />
+					<rune name="Covetous Altar" point-x="7008" point-y="936" />
+					<rune name="Destard Altar" point-x="5205" point-y="776" />
+					<rune name="MB : Arch Daemon" point-x="5704" point-y="663" />
+					<rune name="MB : Ankh Warload" point-x="128" point-y="1312" point-f="2" />
+					<rune name="MB : Lich Khan" point-x="6105" point-y="1380" />
+					<rune name="!" point-x="62" point-y="1256" point-f="2" />
+				</runebook>
+				<runebook serial="1093529100" itemID="8901">
+					<rune name="Del Passage Hellcats" point-x="6022" point-y="1345" />
+					<rune name="Del Passage Lava Lizards" point-x="5968" point-y="1349" />
+					<rune name="Del Passage Lava Lizards2" point-x="5940" point-y="1333" />
+					<rune name="Del Passage Overlook" point-x="5930" point-y="1317" />
+					<rune name="Del Passage Ledge" point-x="5935" point-y="1286" />
+					<rune name="Del Passage S end" point-x="5969" point-y="1406" />
+					<rune name="Del Passage to Trins" point-x="5899" point-y="1409" />
+					<rune name="Nightmare Hythloth" point-x="6070" point-y="59" />
+					<rune name="Sacrifice Liches" point-x="3483" point-y="160" />
+				</runebook>
+				<runebook serial="1101697831" itemID="8901">
+					<rune name="Buc's Tunnels" point-x="2685" point-y="2065" />
+					<rune name="covetous" point-x="2511" point-y="939" />
+					<rune name="cursed fortress" point-x="879" point-y="1689" />
+					<rune name="Deceit" point-x="4116" point-y="447" />
+					<rune name="Despise" point-x="1304" point-y="1062" />
+					<rune name="Destard" point-x="1163" point-y="2654" />
+					<rune name="fire" point-x="2927" point-y="3405" />
+					<rune name="Ice" point-x="1995" point-y="75" />
+					<rune name="Khaldun" point-x="1717" point-y="2987" />
+					<rune name="Shame" point-x="509" point-y="1561" />
+					<rune name="Spider cave" point-x="575" point-y="1633" />
+					<rune name="Terra Keep" point-x="5341" point-y="1576" />
+					<rune name="Wind" point-x="1358" point-y="892" />
+					<rune name="Wrong" point-x="2040" point-y="218" />
+					<rune name="Orc Dungeon" point-x="1013" point-y="1424" />
+					<rune name="Hyloth" point-x="4721" point-y="3816" />
+				</runebook>
+				<runebook serial="1259808714" itemID="8901">
+					<rune name="Abyss East Serp" point-x="7082" point-y="740" />
+					<rune name="Abyss South East" point-x="7006" point-y="794" />
+					<rune name="Abyss South West" point-x="6971" point-y="802" />
+					<rune name="Abyss Serp South" point-x="7094" point-y="818" />
+					<rune name="Shame North" point-x="5595" point-y="141" />
+					<rune name="Wrong East Out" point-x="2048" point-y="220" />
+					<rune name="Wrong East Inside" point-x="5821" point-y="586" />
+					<rune name="Cove West Outside GY" point-x="7008" point-y="1050" />
+					<rune name="Ya Bish" point-x="4508" point-y="3953" />
+				</runebook>
+				<runebook serial="1103508474" itemID="8901">
+					<rune name="Britain #1" point-x="1490" point-y="1547" />
+					<rune name="Britain #2" point-x="1501" point-y="1657" />
+					<rune name="Britain #3" point-x="1591" point-y="1651" />
+					<rune name="Jhelom #1" point-x="1423" point-y="3982" />
+					<rune name="Magincia #1" point-x="3667" point-y="2202" />
+					<rune name="Moonglow #1" point-x="4451" point-y="1085" />
+					<rune name="Moonglow #2" point-x="4420" point-y="1111" />
+					<rune name="Moonglow #3" point-x="4412" point-y="1133" />
+					<rune name="Moonglow #4" point-x="4545" point-y="859" />
+					<rune name="Ocllo #1" point-x="3629" point-y="2538" />
+					<rune name="Serpents Hold #1" point-x="3002" point-y="3354" />
+					<rune name="Skara Brae #1" point-x="606" point-y="2179" />
+					<rune name="Skara Brae #2" point-x="661" point-y="2139" />
+					<rune name="Trinsic #1" point-x="1847" point-y="2706" />
+					<rune name="Trinsic #2 scribe" point-x="2003" point-y="2726" />
+				</runebook>
+				<runebook serial="1109592892" itemID="8901">
+					<rune name="Vesper #1" point-x="2884" point-y="651" />
+					<rune name="Vesper #2" point-x="2916" point-y="672" />
+					<rune name="Vesper #3" point-x="2997" point-y="835" />
+					<rune name="Wind #1" point-x="5300" point-y="91" />
+					<rune name="Wind #2" point-x="5266" point-y="161" />
+					<rune name="Wind #3" point-x="5214" point-y="121" />
+					<rune name="Wind #4" point-x="5179" point-y="95" />
+					<rune name="Wind #5" point-x="5148" point-y="67" />
+				</runebook>
+				<runebook serial="1103490676" itemID="8901">
+					<rune name="Provi Britain #1" point-x="1603" point-y="1717" />
+					<rune name="Provi Britain #2" point-x="1471" point-y="1668" />
+					<rune name="Bower Britain" point-x="1474" point-y="1581" />
+					<rune name="Provi Cove" point-x="2220" point-y="1193" />
+					<rune name="Provi Jhelom" point-x="1439" point-y="3798" />
+					<rune name="Provi Minoc" point-x="2526" point-y="552" />
+					<rune name="Provi Moonglow" point-x="4414" point-y="1064" />
+					<rune name="Provi Ocllo" point-x="3635" point-y="2572" />
+					<rune name="Provi Serpent" point-x="3005" point-y="3392" />
+					<rune name="Bower Serpent" point-x="3046" point-y="3369" />
+					<rune name="Pro&amp;Bower Skara" point-x="587" point-y="2220" />
+					<rune name="Provi Trinsic #1" point-x="1853" point-y="2793" />
+					<rune name="Provi Trinsic #2" point-x="1855" point-y="2827" />
+					<rune name="Bower Vesper" point-x="2860" point-y="806" />
+					<rune name="Bower Yew #1" point-x="566" point-y="971" />
+					<rune name="Bower Yew #2" point-x="621" point-y="1149" />
+				</runebook>
+				<runebook serial="1101643582" itemID="8901">
+					<rune name="Barrier" point-x="2106" point-y="2788" />
+					<rune name="Blance" point-x="2197" point-y="1992" />
+					<rune name="Dagger" point-x="4053" point-y="491" />
+					<rune name="Dragon" point-x="1034" point-y="3205" />
+					<rune name="Eiffle" point-x="1717" point-y="2014" />
+					<rune name="Horseshoe" point-x="2081" point-y="2152" />
+					<rune name="Ivers" point-x="453" point-y="2072" />
+					<rune name="Marble" point-x="1907" point-y="2150" />
+					<rune name="Ocarina" point-x="2024" point-y="1957" />
+					<rune name="Skull Island" point-x="2967" point-y="2127" />
+					<rune name="Temple" point-x="2490" point-y="3536" />
+					<rune name="Tiny Dot" point-x="1505" point-y="363" />
+					<rune name="Valor" point-x="2415" point-y="3877" />
+					<rune name="Brit Moongate" point-x="1334" point-y="1999" />
+				</runebook>
+				<runebook serial="1079093125" itemID="8901">
+					<rune name="Magincia" point-x="3692" point-y="2188" />
+					<rune name="Marble Island" point-x="1904" point-y="2103" />
+					<rune name="Moonglow/ Verity Isle" point-x="4454" point-y="1165" />
+					<rune name="Nujelm" point-x="3774" point-y="1307" />
+					<rune name="Ocarina Island" point-x="2046" point-y="1948" />
+					<rune name="Ocllo" point-x="3683" point-y="2513" />
+					<rune name="Serpent's Hold" point-x="2878" point-y="3470" />
+					<rune name="Skull Island" point-x="2953" point-y="2143" />
+					<rune name="Temple Island" point-x="2552" point-y="3626" />
+					<rune name="Valor Island" point-x="2492" point-y="3931" />
+				</runebook>
+				<runebook serial="1079095048" itemID="8901">
+					<rune name="Amoeba Island" point-x="2151" point-y="3969" />
+					<rune name="Bald Island" point-x="2360" point-y="3442" />
+					<rune name="Barrier Island" point-x="2118" point-y="2786" />
+					<rune name="Blanche Island" point-x="2187" point-y="1985" />
+					<rune name="Booty Island" point-x="3865" point-y="2075" />
+					<rune name="Buccaneer's Den" point-x="2718" point-y="2179" />
+					<rune name="Dagger Island (Snow)" point-x="4061" point-y="490" />
+					<rune name="Dot Island" point-x="1504" point-y="366" />
+					<rune name="Dragon Island" point-x="1080" point-y="3151" />
+					<rune name="Eiffel Island" point-x="1723" point-y="2007" />
+					<rune name="Fire/ Avatar Island" point-x="4658" point-y="3833" />
+					<rune name="Horseshoe Island" point-x="2105" point-y="2119" />
+					<rune name="Iver's Rounding" point-x="473" point-y="2052" />
+					<rune name="Jhelom, North" point-x="1135" point-y="3624" />
+					<rune name="Jhelom, South" point-x="1442" point-y="3998" />
+					<rune name="Justice Island" point-x="1274" point-y="555" />
+				</runebook>
+				<runebook serial="1079094935" itemID="8901">
+					<rune name="Britain MG" point-x="1336" point-y="1998" />
+					<rune name="Buccaneer MG" point-x="2711" point-y="2235" />
+					<rune name="Jhelom MG" point-x="1499" point-y="3772" />
+					<rune name="Minoc MG" point-x="2701" point-y="693" />
+					<rune name="Moonglow MG" point-x="4467" point-y="1284" />
+					<rune name="New Magincia MG" point-x="3563" point-y="2140" />
+					<rune name="Skara Brae MG" point-x="643" point-y="2068" />
+					<rune name="Trinsic MG" point-x="1828" point-y="2949" />
+					<rune name="Yew MG" point-x="771" point-y="753" />
+				</runebook>
+				<runebook serial="1079094474" itemID="8901">
+					<rune name="RuneLib. Yew1" point-x="722" point-y="728" />
+					<rune name="RuneLib. Trinsic1" point-x="1910" point-y="2720" />
+					<rune name="RuneLib. Trinsic2" point-x="1920" point-y="3116" />
+					<rune name="RuneLib. Moonglow1" point-x="4541" point-y="1066" />
+					<rune name="RuneLib. Moonglow2" point-x="4308" point-y="914" />
+					<rune name="RuneLib. Moonglow3" point-x="4421" point-y="1440" />
+				</runebook>
+				<runebook serial="1079091858" itemID="8901">
+					<rune name="Chaos Shrine" point-x="1460" point-y="844" />
+					<rune name="Compassion Shrine" point-x="1858" point-y="872" />
+					<rune name="Honesty Shrine" point-x="4214" point-y="564" />
+					<rune name="Honor Shrine" point-x="1729" point-y="3528" />
+					<rune name="Humility Shrine" point-x="4277" point-y="3697" />
+					<rune name="Justice Shrine" point-x="1300" point-y="638" />
+					<rune name="Sacrifice Shrine" point-x="3354" point-y="298" />
+					<rune name="Spirituality Shrine" point-x="1602" point-y="2490" />
+					<rune name="Valor Shrine" point-x="2494" point-y="3931" />
+				</runebook>
+				<runebook serial="1078907346" itemID="8901">
+					<rune name="Khan E5F (4)" point-x="5308" point-y="677" />
+					<rune name="Deceit 4F 12 TP" point-x="5265" point-y="665" />
+					<rune name="Khan E5F (5)" point-x="6105" point-y="1380" />
+					<rune name="Khan 3 Witch" point-x="6112" point-y="1339" />
+					<rune name="Khan 2 SkelDrg" point-x="6081" point-y="1321" />
+					<rune name="Khan 10" point-x="6055" point-y="1356" />
+					<rune name="Deceit E4F (3)" point-x="5219" point-y="755" />
+					<rune name="Deceit 3F 2 Path" point-x="5209" point-y="670" />
+					<rune name="Deceit C 2" point-x="5142" point-y="651" />
+					<rune name="Deceit 2F 9 Mage" point-x="5323" point-y="618" />
+					<rune name="Deceit E2F (2)" point-x="5305" point-y="536" />
+					<rune name="Deceit 1F Center" point-x="5193" point-y="558" />
+					<rune name="Deceit Entrance" point-x="4112" point-y="435" />
+					<rune name="Deceit 1F Bard" point-x="5146" point-y="557" />
+					<rune name="Deceit C 9 Deep" point-x="5129" point-y="725" />
+					<rune name="Deceit C 6 Outside" point-x="5180" point-y="715" />
+				</runebook>
+				<runebook serial="1078906910" itemID="8901">
+					<rune name="Arch Exit Room" point-x="5700" point-y="665" />
+					<rune name="Arch Next Room" point-x="5710" point-y="665" />
+					<rune name="Arch 12 Anhk" point-x="5688" point-y="624" />
+					<rune name="Arch 3" point-x="5711" point-y="624" />
+					<rune name="Arch Outside" point-x="5783" point-y="531" />
+					<rune name="Outside Corner" point-x="5808" point-y="600" />
+					<rune name="Wrong Entrance(1)" point-x="5825" point-y="624" />
+					<rune name="Wrong 1F 3 TP" point-x="5867" point-y="531" />
+					<rune name="Wrong C 10" point-x="1986" point-y="276" />
+					<rune name="Wrong C 2" point-x="2027" point-y="223" />
+					<rune name="Wrong C 3 Roof" point-x="2041" point-y="226" />
+					<rune name="Wrong C 5" point-x="2057" point-y="226" />
+					<rune name="Wrong C Entrance" point-x="1994" point-y="305" />
+					<rune name="Wrong 2F 9 Farm" point-x="5645" point-y="562" />
+					<rune name="Wrong 2F 9 Door" point-x="5668" point-y="570" />
+				</runebook>
+				<runebook serial="1077678540" itemID="8901">
+					<rune name="Destard Altar" point-x="5202" point-y="781" />
+					<rune name="Destard C 1" point-x="5250" point-y="774" />
+					<rune name="Destard C 6" point-x="5308" point-y="857" />
+					<rune name="Destard C 3" point-x="5328" point-y="789" />
+					<rune name="Destard C 9" point-x="5213" point-y="895" />
+					<rune name="Destard C 12" point-x="5211" point-y="848" />
+					<rune name="Destard 1F 3" point-x="5297" point-y="902" />
+					<rune name="Destard 1F 5 Pond" point-x="5363" point-y="946" />
+					<rune name="Destard 1F 9" point-x="5165" point-y="966" />
+					<rune name="Destard 2F 3 E3F" point-x="5156" point-y="804" />
+					<rune name="Destard 2F 6" point-x="5178" point-y="853" />
+					<rune name="Destard 2F 10" point-x="5125" point-y="851" />
+					<rune name="Destard 3F 12 TP" point-x="5149" point-y="981" />
+					<rune name="Destard 3F 9" point-x="5166" point-y="1010" />
+					<rune name="Destard 3F 6" point-x="5190" point-y="1015" />
+					<rune name="Destard Entrance" point-x="1165" point-y="2650" />
+				</runebook>
+				<runebook serial="1079730726" itemID="8901">
+					<rune name="Ankh Entrance" point-x="1984" point-y="2066" />
+					<rune name="Demons South" point-x="119" point-y="1566" point-f="2" />
+					<rune name="West Jail" point-x="65" point-y="1546" point-f="2" />
+					<rune name="Bloodspawn" point-x="33" point-y="1441" point-f="2" />
+					<rune name="SW Liches" point-x="8" point-y="1489" point-f="2" />
+					<rune name="Middlehallway" point-x="83" point-y="1427" point-f="2" />
+					<rune name="Graveyard" point-x="131" point-y="1349" point-f="2" />
+					<rune name="Dining Hall" point-x="51" point-y="1348" point-f="2" />
+					<rune name="North Hallway" point-x="51" point-y="1267" point-f="2" />
+					<rune name="Serpentine Pass" point-x="394" point-y="1579" point-f="2" />
+					<rune name="Serpentine Drags" point-x="435" point-y="1545" point-f="2" />
+					<rune name="Kirin Pass" point-x="11" point-y="877" point-f="2" />
+					<rune name="Kirin Pass - Toxic E" point-x="47" point-y="854" point-f="2" />
+					<rune name="Kirin Pass - Drags a" point-x="7" point-y="1015" point-f="2" />
+					<rune name="Kirin Pass - Verite " point-x="83" point-y="1062" point-f="2" />
+					<rune name="Kirin Pass - South E" point-x="119" point-y="1153" point-f="2" />
+				</runebook>
+				<runebook serial="1076827130" itemID="8901">
+					<rune name="demon spot" point-x="1934" point-y="3389" />
+					<rune name="Ettins" point-x="1678" point-y="2478" />
+					<rune name="Booty Island" point-x="3857" point-y="2088" />
+					<rune name="Minax Base Inside" point-x="1118" point-y="2596" />
+					<rune name="Minax Base Oustide" point-x="1216" point-y="2569" />
+					<rune name="Lich Isle" point-x="3451" point-y="150" />
+					<rune name="Meta Talisman" point-x="2448" point-y="3924" />
+					<rune name="Well" point-x="1484" point-y="1709" />
+					<rune name="Hedge Maze" point-x="1113" point-y="2201" />
+					<rune name="Wind Park" point-x="5270" point-y="19" />
+					<rune name="Drag Isle" point-x="2466" point-y="3579" />
+					<rune name="Orc Spawn East" point-x="5361" point-y="2004" />
+					<rune name="Grotto" point-x="2985" point-y="2897" />
+					<rune name="Booty Dungeon Level " point-x="6299" point-y="2274" />
+					<rune name="Booty Dungeon Entran" point-x="4202" point-y="1756" />
+				</runebook>
+				<runebook serial="1120349461" itemID="8901">
+					<rune name="81" point-x="1467" point-y="2181" />
+					<rune name="82" point-x="1464" point-y="2246" />
+					<rune name="83" point-x="1477" point-y="2272" />
+					<rune name="84" point-x="1562" point-y="2312" />
+					<rune name="85" point-x="1546" point-y="2223" />
+					<rune name="86" point-x="1518" point-y="2214" />
+					<rune name="87" point-x="1533" point-y="2189" />
+					<rune name="88" point-x="1522" point-y="2150" />
+					<rune name="89" point-x="1541" point-y="2115" />
+					<rune name="90" point-x="1594" point-y="2193" />
+					<rune name="91" point-x="1618" point-y="2236" />
+					<rune name="92" point-x="1654" point-y="2268" />
+					<rune name="93" point-x="1724" point-y="2288" />
+					<rune name="94" point-x="1773" point-y="2321" />
+					<rune name="95" point-x="1758" point-y="2333" />
+					<rune name="96" point-x="1765" point-y="2431" />
+				</runebook>
+				<runebook serial="1113697769" itemID="8901">
+					<rune name="Hythloth 4" point-x="6084" point-y="67" />
+					<rune name="Wrong" point-x="2044" point-y="220" />
+					<rune name="Wrong 1-1" point-x="5824" point-y="553" />
+					<rune name="Wrong 1-2" point-x="5868" point-y="533" />
+					<rune name="Wrong 2" point-x="5690" point-y="571" />
+					<rune name="Wrong 2-2" point-x="5651" point-y="570" />
+					<rune name="Wrong 2-3" point-x="5733" point-y="573" />
+					<rune name="Wrong 2-4" point-x="5690" point-y="543" />
+					<rune name="Ice" point-x="1998" point-y="76" />
+					<rune name="Ice 1-1" point-x="5874" point-y="157" />
+					<rune name="Ice 1-2" point-x="5766" point-y="143" />
+					<rune name="Ice 1-3" point-x="5729" point-y="212" />
+					<rune name="Ice 1-4" point-x="5712" point-y="144" />
+					<rune name="Ice 2" point-x="5656" point-y="309" />
+					<rune name="Ice 2-2" point-x="5688" point-y="313" />
+					<rune name="Ice 2-3" point-x="5672" point-y="340" />
+				</runebook>
+				<runebook serial="1094934589" itemID="8901">
+					<rune name="1" point-x="4079" point-y="2175" />
+					<rune name="2" point-x="4005" point-y="2242" />
+					<rune name="3" point-x="3957" point-y="2169" />
+					<rune name="4" point-x="3912" point-y="2070" />
+					<rune name="5" point-x="3923" point-y="2008" />
+					<rune name="6" point-x="3996" point-y="1929" />
+					<rune name="7" point-x="4043" point-y="1847" />
+					<rune name="8" point-x="4082" point-y="1780" />
+					<rune name="9" point-x="4108" point-y="1868" />
+					<rune name="10" point-x="4188" point-y="1848" />
+					<rune name="11" point-x="4205" point-y="1916" />
+					<rune name="12" point-x="4231" point-y="1974" />
+					<rune name="13" point-x="4156" point-y="2002" />
+					<rune name="14" point-x="4083" point-y="1981" />
+				</runebook>
+				<runebook serial="1111727515" itemID="8901">
+					<rune name="Abyss - Semidar" point-x="7041" point-y="748" />
+					<rune name="Cove - Devourer" point-x="7010" point-y="1052" />
+					<rune name="Deceit - Niera" point-x="5142" point-y="657" />
+					<rune name="Despise  - Barracoon" point-x="5499" point-y="839" />
+					<rune name="Destard - Rikktor" point-x="5207" point-y="800" />
+					<rune name="Shame - Gorde" point-x="5594" point-y="241" />
+					<rune name="Tera - Mephistis" point-x="5267" point-y="1564" />
+					<rune name="Wrong - Lord Oaks" point-x="2045" point-y="228" />
+					<rune name="Docks - Osiredon" point-x="4552" point-y="2340" />
+					<rune name="Orc Spawn" point-x="5272" point-y="2031" />
+					<rune name="Arch Demon" point-x="5705" point-y="664" />
+					<rune name="Lich Khan" point-x="6124" point-y="1380" />
+					<rune name="Warlock" point-x="129" point-y="1351" point-f="2" />
+					<rune name="Fafnir Alter" point-x="5209" point-y="778" />
+					<rune name="Akor Alter" point-x="6990" point-y="951" />
+					<rune name="Adramalech Alter" point-x="5985" point-y="54" />
+				</runebook>
+				<runebook serial="1113698952" itemID="8901">
+					<rune name="Fire" point-x="2921" point-y="3409" />
+					<rune name="Fire 1-1" point-x="5673" point-y="1416" />
+					<rune name="Fire 1-2" point-x="5762" point-y="1468" />
+					<rune name="Fire 1-3" point-x="5801" point-y="1426" />
+					<rune name="Fire 1-4" point-x="5784" point-y="1501" />
+					<rune name="Fire 1-5" point-x="5837" point-y="1503" />
+					<rune name="Fire 1-6" point-x="5874" point-y="1438" />
+					<rune name="Fire 1-7" point-x="5875" point-y="1370" />
+					<rune name="Fire 1-8" point-x="5779" point-y="1386" />
+					<rune name="Fire 1-9" point-x="5836" point-y="1289" />
+					<rune name="Fire 2-1" point-x="5696" point-y="1317" />
+					<rune name="Fire 2-2" point-x="5642" point-y="1323" />
+					<rune name="Fire 2-3" point-x="5641" point-y="1369" />
+					<rune name="Fire 2-4" point-x="5671" point-y="1391" />
+					<rune name="Fire 2-5" point-x="5742" point-y="1391" />
+					<rune name="Fire 2-6" point-x="5749" point-y="1354" />
+				</runebook>
+				<runebook serial="1120352472" itemID="8901">
+					<rune name="97" point-x="1702" point-y="2318" />
+					<rune name="98" point-x="1654" point-y="2304" />
+					<rune name="99" point-x="2062" point-y="2144" />
+					<rune name="100" point-x="2104" point-y="2124" />
+					<rune name="101" point-x="2098" point-y="2101" />
+					<rune name="102" point-x="2129" point-y="2108" />
+					<rune name="103" point-x="2153" point-y="2121" />
+					<rune name="104" point-x="2185" point-y="2144" />
+					<rune name="105" point-x="2177" point-y="2151" />
+					<rune name="106" point-x="2161" point-y="2149" />
+					<rune name="107" point-x="2130" point-y="2133" />
+					<rune name="108" point-x="2123" point-y="2121" />
+					<rune name="109" point-x="2647" point-y="2167" />
+					<rune name="110" point-x="2628" point-y="2221" />
+					<rune name="111" point-x="2642" point-y="2289" />
+					<rune name="112" point-x="2682" point-y="2291" />
+				</runebook>
+				<runebook serial="1101454989" itemID="8901">
+					<rune name="South East Tip" point-x="4052" point-y="2295" />
+					<rune name="Witch Hut" point-x="4082" point-y="2223" />
+					<rune name="Swampy South Bridge" point-x="4069" point-y="2220" />
+					<rune name="Swampy Spawn" point-x="4065" point-y="2195" />
+					<rune name="Swampy North Bridge" point-x="4081" point-y="2174" />
+					<rune name="Swampy West Bridge" point-x="4041" point-y="2207" />
+					<rune name="North Ship" point-x="4016" point-y="2155" />
+					<rune name="West Ship" point-x="3923" point-y="2205" />
+					<rune name="Dragon" point-x="3882" point-y="2125" />
+					<rune name="Ruins" point-x="3871" point-y="2073" />
+					<rune name="Docks" point-x="3947" point-y="2063" />
+					<rune name="Titans" point-x="3978" point-y="2235" />
+					<rune name="Ogre Lord" point-x="3938" point-y="2165" />
+					<rune name="Jooz House" point-x="3984" point-y="2118" />
+					<rune name="South Beach" point-x="4000" point-y="2270" />
+					<rune name="Zonas" point-x="3901" point-y="1946" />
+				</runebook>
+				<runebook serial="1120351302" itemID="8901">
+					<rune name="113" point-x="2727" point-y="2309" />
+					<rune name="114" point-x="2781" point-y="2294" />
+					<rune name="115" point-x="2804" point-y="2255" />
+					<rune name="116" point-x="2850" point-y="2252" />
+					<rune name="117" point-x="2957" point-y="2150" />
+					<rune name="118" point-x="2967" point-y="2171" />
+					<rune name="119" point-x="2952" point-y="2176" />
+					<rune name="120" point-x="2955" point-y="2200" />
+					<rune name="121" point-x="2932" point-y="2240" />
+					<rune name="122" point-x="958" point-y="2505" />
+					<rune name="123" point-x="1025" point-y="2702" />
+					<rune name="124" point-x="1291" point-y="2735" />
+					<rune name="125" point-x="1382" point-y="2840" />
+					<rune name="126" point-x="1389" point-y="2984" />
+					<rune name="127" point-x="1414" point-y="3059" />
+					<rune name="128" point-x="1647" point-y="2642" />
+				</runebook>
+				<runebook serial="1088618608" itemID="8901">
+					<rune name="Abyss W" point-x="6932" point-y="735" />
+					<rune name="Deceit SW" point-x="5128" point-y="726" />
+					<rune name="Despise W" point-x="5488" point-y="842" />
+					<rune name="Destard NW Ankh" point-x="5203" point-y="787" />
+					<rune name="Cove W" point-x="7018" point-y="1056" />
+					<rune name="Wrong SW" point-x="1997" point-y="297" />
+					<rune name="Water W" point-x="4549" point-y="2362" />
+					<rune name="Shame SW" point-x="5595" point-y="230" />
+					<rune name="Terra SE" point-x="5237" point-y="1583" />
+					<rune name="Deceit Lich Kahn" point-x="6101" point-y="1360" />
+					<rune name="Arch Demon" point-x="5709" point-y="662" />
+					<rune name="Akor Top" point-x="7002" point-y="937" />
+					<rune name="Hythloth Boss" point-x="5987" point-y="58" />
+					<rune name="Orc W Ankh" point-x="5272" point-y="2031" />
+					<rune name="Booty Island" point-x="4063" point-y="2186" />
+					<rune name="BOOTY 2" point-x="4019" point-y="2227" />
+				</runebook>
+				<runebook serial="1094855816" itemID="8901">
+					<rune name="Britain (East)" point-x="1660" point-y="1611" />
+					<rune name="Britain (West)" point-x="1431" point-y="1666" />
+					<rune name="Buccaneer's Den" point-x="2729" point-y="2194" />
+					<rune name="Cove" point-x="2237" point-y="1203" />
+					<rune name="Jhelom" point-x="1331" point-y="3769" />
+					<rune name="Minoc" point-x="2504" point-y="565" />
+					<rune name="Moonglow" point-x="4462" point-y="1173" />
+					<rune name="New Magincia" point-x="3704" point-y="2196" />
+					<rune name="Nujel'm" point-x="3771" point-y="1311" />
+					<rune name="Ocllo" point-x="3689" point-y="2525" />
+					<rune name="Serpent's Hold" point-x="2879" point-y="3473" />
+					<rune name="Skara Brae" point-x="577" point-y="2139" />
+					<rune name="Trinsic (N)" point-x="1907" point-y="2687" />
+					<rune name="Trinsic (W)" point-x="1822" point-y="2828" />
+					<rune name="Vesper" point-x="2892" point-y="684" />
+					<rune name="Yew" point-x="658" point-y="820" />
+				</runebook>
+				<runebook serial="1100927097" itemID="8901">
+					<rune name="Champ Despise" point-x="5507" point-y="839" />
+					<rune name="Champ Abyss" point-x="7070" point-y="727" />
+					<rune name="Champ Destard" point-x="5205" point-y="781" />
+					<rune name="Champ Wrong" point-x="1998" point-y="297" />
+					<rune name="Champ Deciet" point-x="5141" point-y="649" />
+					<rune name="Champ Tera" point-x="5145" point-y="1557" />
+					<rune name="Champ Cove lvl 5" point-x="7084" point-y="1010" />
+					<rune name="Champ Shame" point-x="5601" point-y="222" />
+					<rune name="Arch Daemon SW" point-x="5695" point-y="664" />
+					<rune name="Arch Daemon NW" point-x="5688" point-y="624" />
+					<rune name="Valor (Shrine)" point-x="2489" point-y="3935" />
+					<rune name="ORC" point-x="5361" point-y="2008" />
+				</runebook>
+				<runebook serial="1078491031" itemID="8901">
+					<rune name="West Britain" point-x="1426" point-y="1671" />
+					<rune name="East Britain" point-x="1658" point-y="1615" />
+					<rune name="Cove" point-x="2236" point-y="1196" />
+					<rune name="Jhelom" point-x="1330" point-y="3773" />
+					<rune name="Minoc" point-x="2505" point-y="562" />
+					<rune name="Moonglow" point-x="4463" point-y="1170" />
+					<rune name="Occlo" point-x="3689" point-y="2525" />
+					<rune name="Serpents Hold" point-x="2879" point-y="3473" />
+					<rune name="West Trinsic" point-x="1822" point-y="2825" />
+					<rune name="East Trinsic" point-x="1906" point-y="2689" />
+					<rune name="Vesper" point-x="2889" point-y="687" />
+					<rune name="Yew" point-x="662" point-y="823" />
+					<rune name="Moongate" point-x="2698" point-y="695" />
+				</runebook>
+				<runebook serial="1082299161" itemID="8901">
+					<rune name="Britain Bank" point-x="1453" point-y="1675" />
+					<rune name="Britain NRegs" point-x="1489" point-y="1551" />
+					<rune name="Dom" point-x="4610" point-y="3541" />
+					<rune name="Hellcats/Nightmare" point-x="5796" point-y="1507" />
+					<rune name="Shark" point-x="4274" point-y="3676" />
+					<rune name="RuneLibrary" point-x="723" point-y="728" />
+					<rune name="AnimalStable" point-x="676" point-y="940" />
+					<rune name="Booty Island" point-x="4025" point-y="2221" />
+					<rune name="TROLL" point-x="5403" point-y="700" />
+					<rune name="Werewolf" point-x="5564" point-y="1862" />
+					<rune name="MEDUSA" point-x="6296" point-y="2276" />
+					<rune name="Medusa Entrance" point-x="4210" point-y="1799" />
+					<rune name="BOWS" point-x="660" point-y="735" />
+					<rune name="PLOT" point-x="927" point-y="446" />
+					<rune name="GH $" point-x="4034" point-y="266" />
+				</runebook>
+				<runebook serial="1103398013" itemID="8901" />
+				<runebook serial="1103399889" itemID="8901" />
+				<runebook serial="1103400457" itemID="8901" />
+				<runebook serial="1103400118" itemID="8901" />
+				<runebook serial="1103400580" itemID="8901" />
+				<runebook serial="1103399770" itemID="8901" />
+				<runebook serial="1154511740" itemID="8901" />
+				<runebook serial="1133540230" itemID="8901">
+					<rune name="Hyth Altar" point-x="5990" point-y="54" />
+					<rune name="Hyth Enter (0)" point-x="4721" point-y="3814" />
+					<rune name="Hyth 1F 6" point-x="5995" point-y="91" />
+					<rune name="Hyth 1F 9" point-x="5953" point-y="98" />
+					<rune name="Hyth E2F (1)" point-x="5905" point-y="107" />
+					<rune name="Hyth 2F 3 Daemon" point-x="5987" point-y="164" />
+					<rune name="Hyth 2F 2 Haze" point-x="5974" point-y="144" />
+					<rune name="Hyth 2F 9 Gagl4" point-x="5931" point-y="219" />
+					<rune name="Hyth 2F 6 Path" point-x="5973" point-y="236" />
+					<rune name="Hyth E3F (2)" point-x="5914" point-y="171" />
+					<rune name="Hyth 3F 6 Ggl 5+" point-x="6098" point-y="220" />
+					<rune name="Hyth 3F 11 Red D" point-x="6057" point-y="186" />
+					<rune name="Hyth 4F Balron" point-x="6064" point-y="80" />
+					<rune name="Hyth 4F Center" point-x="6082" point-y="62" />
+					<rune name="Hyth 4F Safe" point-x="6049" point-y="52" />
+					<rune name="Hyth Secret Path" point-x="6030" point-y="197" />
+				</runebook>
+				<runebook serial="1089167216" itemID="8901">
+					<rune name="Moonglow" point-x="4452" point-y="1167" />
+					<rune name="Brit West" point-x="1428" point-y="1709" />
+					<rune name="Brit East" point-x="1646" point-y="1610" />
+					<rune name="Buccs Den" point-x="2742" point-y="2163" />
+					<rune name="Jhelom" point-x="1319" point-y="3766" />
+					<rune name="Magincia" point-x="3686" point-y="2197" />
+					<rune name="NuJelm" point-x="3764" point-y="1319" />
+					<rune name="Skara Brae" point-x="587" point-y="2152" />
+					<rune name="Trinny West" point-x="1824" point-y="2826" />
+					<rune name="Trinny East" point-x="1901" point-y="2678" />
+					<rune name="Yew" point-x="657" point-y="822" />
+					<rune name="Cove" point-x="2239" point-y="1194" />
+					<rune name="Vesper" point-x="2891" point-y="690" />
+					<rune name="Minoc" point-x="2506" point-y="556" />
+					<rune name="Serp Hold" point-x="2870" point-y="3465" />
+					<rune name="Ocollo" point-x="3699" point-y="2513" />
+				</runebook>
+				<runebook serial="1088256832" itemID="8901">
+					<rune name="MONTOR DUNG" point-x="2780" point-y="892" />
+					<rune name="ALTER ACORN" point-x="7004" point-y="941" />
+					<rune name="ARCH DAEMON" point-x="5706" point-y="661" />
+					<rune name="LICHCON" point-x="5316" point-y="667" />
+					<rune name="ALTER DESTARD" point-x="5203" point-y="779" />
+					<rune name="ISLAND HOUSE" point-x="4080" point-y="1732" />
+					<rune name="ALTER ALDRAMAX" point-x="5987" point-y="69" />
+				</runebook>
+				<runebook serial="1087729465" itemID="8901">
+					<rune name="Champ Despise" point-x="5507" point-y="839" />
+					<rune name="Champ Abyss" point-x="7057" point-y="727" />
+					<rune name="Champ Deceit" point-x="5141" point-y="650" />
+					<rune name="Champ Terathan" point-x="5145" point-y="1557" />
+					<rune name="Champ Covetous" point-x="7079" point-y="1014" />
+					<rune name="Champ Wrong" point-x="1997" point-y="298" />
+					<rune name="Champ Shame" point-x="5589" point-y="221" />
+					<rune name="Champ Orc" point-x="5274" point-y="2032" />
+					<rune name="Champ Island" point-x="357" point-y="3746" />
+					<rune name="Arch Demon" point-x="5696" point-y="660" />
+					<rune name="Lich Khan" point-x="6125" point-y="1376" />
+					<rune name="Champ Destard" point-x="5204" point-y="796" />
+					<rune name="Toke Ice" point-x="4041" point-y="543" />
+					<rune name="Toke Summer" point-x="4777" point-y="3837" />
+				</runebook>
+				<runebook serial="1074215997" itemID="8901">
+					<rune name="Britain West" point-x="1418" point-y="1700" />
+					<rune name="Britain East" point-x="1648" point-y="1619" />
+					<rune name="Vesper" point-x="2892" point-y="686" />
+					<rune name="Minoc" point-x="2510" point-y="563" />
+					<rune name="Trinsic West" point-x="1824" point-y="2820" />
+					<rune name="Trinsic North" point-x="1908" point-y="2689" />
+					<rune name="Skara Brae" point-x="596" point-y="2137" />
+					<rune name="Serpents Hold" point-x="2883" point-y="3474" />
+					<rune name="NuJelm" point-x="3753" point-y="1318" />
+					<rune name="Magincia" point-x="3795" point-y="2247" />
+					<rune name="Jhelom" point-x="1319" point-y="3758" />
+					<rune name="Cove" point-x="2235" point-y="1200" />
+					<rune name="Occlo" point-x="3683" point-y="2518" />
+					<rune name="Yew" point-x="656" point-y="817" />
+				</runebook>
+				<runebook serial="1077741066" itemID="8901">
+					<rune name="House Max" point-x="1783" point-y="3301" />
+					<rune name="ITE Avamposto" point-x="1679" point-y="1501" />
+					<rune name="Casa Hyth" point-x="4572" point-y="3130" />
+					<rune name="Home" point-x="1768" point-y="3408" />
+					<rune name="Ite" point-x="2696" point-y="590" />
+					<rune name="Bloody Tower" point-x="1167" point-y="1691" />
+					<rune name="Booty" point-x="4150" point-y="2129" />
+					<rune name="Toke Bucca" point-x="2628" point-y="978" />
+					<rune name="Toke Destard" point-x="1281" point-y="2661" />
+				</runebook>
+				<runebook serial="1074223051" itemID="8901">
+					<rune name="Ankh" point-x="1983" point-y="2067" />
+					<rune name="Asylum" point-x="1132" point-y="2226" />
+					<rune name="Booty Island" point-x="3810" point-y="2067" />
+					<rune name="Covetous" point-x="2498" point-y="924" />
+					<rune name="Deceit" point-x="4111" point-y="434" />
+					<rune name="Despise" point-x="1301" point-y="1085" />
+					<rune name="Destard" point-x="1168" point-y="2640" />
+					<rune name="Exodus" point-x="267" point-y="766" />
+					<rune name="Fire" point-x="5672" point-y="1420" />
+					<rune name="Hythloth" point-x="4722" point-y="3823" />
+					<rune name="Ice" point-x="1998" point-y="85" />
+					<rune name="Khaldun" point-x="1716" point-y="2997" />
+					<rune name="Orc Cave" point-x="1016" point-y="1432" />
+					<rune name="Shame" point-x="509" point-y="1564" />
+					<rune name="Wrong" point-x="2041" point-y="235" />
+					<rune name="shame pk" point-x="5782" point-y="19" />
+				</runebook>
+				<runebook serial="1084220822" itemID="8901">
+					<rune name="Abyss W Moongate" point-x="6931" point-y="744" />
+					<rune name="Abyss E Entrance" point-x="7055" point-y="727" />
+					<rune name="Abyss S Corner" point-x="6969" point-y="800" />
+					<rune name="Cove East" point-x="7106" point-y="1091" />
+					<rune name="Cove North GY" point-x="7013" point-y="1051" />
+					<rune name="Deceit E Entrance" point-x="5141" point-y="654" />
+					<rune name="Deceit Alter" point-x="5136" point-y="720" />
+					<rune name="Despise W Entrance" point-x="5475" point-y="814" />
+					<rune name="Despise S" point-x="5535" point-y="927" />
+					<rune name="Destard Shrine" point-x="5225" point-y="780" />
+					<rune name="Destard S Wall" point-x="5292" point-y="862" />
+					<rune name="Double Champ S" point-x="308" point-y="3777" />
+					<rune name="Double Champ Ankh" point-x="373" point-y="3737" />
+					<rune name="Oaks E Corner" point-x="2029" point-y="222" />
+					<rune name="Oaks Outside South" point-x="2018" point-y="343" />
+					<rune name="Orc Cave E" point-x="5360" point-y="1995" />
+				</runebook>
+				<runebook serial="1084199751" itemID="8901">
+					<rune name="Sea W Entrance" point-x="4549" point-y="2424" />
+					<rune name="Shame W Alter" point-x="5579" point-y="170" />
+					<rune name="Shame N Alter" point-x="5589" point-y="138" />
+					<rune name="Terra E Bridge" point-x="5272" point-y="1562" />
+					<rune name="Terra NW Corner" point-x="5140" point-y="1545" />
+				</runebook>
+				<runebook serial="1176361662" itemID="8901">
+					<rune name="Home" point-x="1791" point-y="3302" />
+					<rune name="Brit West" point-x="1471" point-y="1681" />
+					<rune name="Brit Est" point-x="1630" point-y="1650" />
+				</runebook>
+				<runebook serial="1092825538" itemID="8901">
+					<rune name="Destard" point-x="1150" point-y="2647" />
+					<rune name="Bucca" point-x="2744" point-y="2166" />
+					<rune name="Deceit" point-x="4111" point-y="434" />
+					<rune name="Shame" point-x="514" point-y="1565" />
+					<rune name="Despice" point-x="1300" point-y="1069" />
+					<rune name="Wrong" point-x="2043" point-y="217" />
+					<rune name="Sacrifice" point-x="3478" point-y="154" />
+					<rune name="Britain" point-x="1420" point-y="1636" />
+					<rune name="Covetous" point-x="2499" point-y="919" />
+				</runebook>
+				<runebook serial="1208880165" itemID="8901">
+					<rune name="Nuova sede ITE" point-x="857" point-y="870" />
+					<rune name="Occlo" point-x="3696" point-y="2542" />
+					<rune name="Rune yew" point-x="721" point-y="731" />
+					<rune name="Home Trinsic" point-x="1771" point-y="3414" />
+					<rune name="Bucca" point-x="2744" point-y="2166" />
+					<rune name="Yew bank" point-x="645" point-y="825" />
+					<rune name="Britain West Bank" point-x="1435" point-y="1669" />
+					<rune name="Minoc" point-x="2491" point-y="542" />
+					<rune name="Casa Hythloth" point-x="4572" point-y="3131" />
+					<rune name="BritPonteVilage" point-x="1395" point-y="1812" />
+					<rune name="BritDietroStable" point-x="1281" point-y="1786" />
+					<rune name="BritNWCimi" point-x="1286" point-y="1551" />
+					<rune name="ITE" point-x="2696" point-y="590" />
+					<rune name="Safe Fogne" point-x="6043" point-y="1493" />
+					<rune name="casa brit" point-x="1740" point-y="1526" />
+					<rune name="HOME" point-x="1791" point-y="3302" />
+				</runebook>
+				<runebook serial="1110311657" itemID="8901">
+					<rune name="Yew Exodus" point-x="269" point-y="770" />
+					<rune name="Idoc" point-x="1913" point-y="2410" />
+					<rune name="Ank exit" point-x="10" point-y="874" point-f="2" />
+					<rune name="Destard" point-x="1150" point-y="2647" />
+					<rune name="Exodus Linch" point-x="2022" point-y="64" point-f="2" />
+					<rune name="cascata destard hidd" point-x="6205" point-y="3396" />
+					<rune name="Shame" point-x="523" point-y="1573" />
+					<rune name="Wrong" point-x="1300" point-y="1069" />
+					<rune name="Crystal Cove" point-x="5820" point-y="48" />
+					<rune name="Asylum Entrance" point-x="1131" point-y="2228" />
+					<rune name="Covetous" point-x="2499" point-y="919" />
+				</runebook>
+				<runebook serial="1096913303" itemID="8901">
+					<rune name="Ankh Elemental" point-x="10" point-y="877" point-f="2" />
+					<rune name="Ankh Entrance" point-x="1988" point-y="2064" />
+					<rune name="Booty Dungeon" point-x="4206" point-y="1799" />
+					<rune name="Exodus" point-x="267" point-y="765" />
+					<rune name="Grinch" point-x="6030" point-y="196" />
+					<rune name="Grotto" point-x="2971" point-y="2894" />
+					<rune name="Mushroom Cave" point-x="544" point-y="797" />
+					<rune name="Sacrificial Liches" point-x="3478" point-y="153" />
+					<rune name="Summer Dungeon" point-x="4777" point-y="3769" />
+					<rune name="Summer Dungeon L2" point-x="5330" point-y="1921" point-f="1" />
+					<rune name="Crystal Cave 1" point-x="5151" point-y="1370" />
+					<rune name="Crystal Cave 2" point-x="5209" point-y="1312" />
+					<rune name="Shame Blood Elementa" point-x="5778" point-y="19" />
+				</runebook>
+				<runebook serial="1089251670" itemID="8901">
+					<rune name="Wind Dragon" point-x="5257" point-y="197" />
+					<rune name="Wind Ancient Wyrm" point-x="5270" point-y="19" />
+					<rune name="Covetous Dragons" point-x="5592" point-y="1840" />
+					<rune name="Ice White Wyrm" point-x="5826" point-y="143" />
+					<rune name="Dragon Island North" point-x="2453" point-y="3552" />
+					<rune name="Deceit Skeleton &amp; Da" point-x="6135" point-y="1308" />
+					<rune name="Wrong Ancient Wyrm" point-x="5703" point-y="660" />
+					<rune name="Hyloth L4 Ancient Wy" point-x="6079" point-y="67" />
+				</runebook>
+				<runebook serial="1093173754" itemID="8901">
+					<rune name="Destard House" point-x="1274" point-y="2671" />
+					<rune name="Destard Entrance" point-x="1171" point-y="2647" />
+					<rune name="Left Rim" point-x="5204" point-y="981" />
+					<rune name="Top Rim" point-x="5201" point-y="899" />
+					<rune name="Right Rim" point-x="5290" point-y="894" />
+					<rune name="Bottom Rim" point-x="5292" point-y="977" />
+					<rune name="Destard Shrine" point-x="5225" point-y="780" />
+					<rune name="Destard S Wall" point-x="5292" point-y="862" />
+					<rune name="Destard House Cutoff" point-x="1242" point-y="2712" />
+					<rune name="West of Destard Ent" point-x="1080" point-y="2708" />
+					<rune name="Destard L3" point-x="5168" point-y="1010" />
+				</runebook>
+				<runebook serial="1074205710" itemID="8901">
+					<rune name="Ankh" point-x="1983" point-y="2067" />
+					<rune name="Asylum" point-x="1132" point-y="2226" />
+					<rune name="Booty Island" point-x="3810" point-y="2067" />
+					<rune name="Covetous" point-x="2498" point-y="924" />
+					<rune name="Deceit" point-x="4111" point-y="434" />
+					<rune name="Despise" point-x="1301" point-y="1085" />
+					<rune name="Destard" point-x="1168" point-y="2640" />
+					<rune name="Exodus" point-x="267" point-y="766" />
+					<rune name="Fire" point-x="5672" point-y="1420" />
+					<rune name="Hythloth" point-x="4722" point-y="3823" />
+					<rune name="Ice" point-x="1998" point-y="85" />
+					<rune name="Khaldun" point-x="1716" point-y="2997" />
+					<rune name="Orc Cave" point-x="1016" point-y="1432" />
+					<rune name="Shame" point-x="509" point-y="1564" />
+					<rune name="Wrong" point-x="2041" point-y="235" />
+				</runebook>
+				<runebook serial="1074214702" itemID="8901">
+					<rune name="Britain West" point-x="1418" point-y="1700" />
+					<rune name="Britain East" point-x="1648" point-y="1619" />
+					<rune name="Vesper" point-x="2892" point-y="686" />
+					<rune name="Minoc" point-x="2510" point-y="563" />
+					<rune name="Trinsic West" point-x="1824" point-y="2820" />
+					<rune name="Trinsic North" point-x="1908" point-y="2689" />
+					<rune name="Skara Brae" point-x="596" point-y="2137" />
+					<rune name="Serpents Hold" point-x="2883" point-y="3474" />
+					<rune name="NuJelm" point-x="3753" point-y="1318" />
+					<rune name="Magincia" point-x="3795" point-y="2247" />
+					<rune name="Jhelom" point-x="1319" point-y="3758" />
+					<rune name="Yew" point-x="656" point-y="817" />
+					<rune name="Bucs Den" point-x="2720" point-y="2188" />
+				</runebook>
+				<runebook serial="1074186971" itemID="8901">
+					<rune name="Ankh" point-x="1983" point-y="2067" />
+					<rune name="Asylum" point-x="1132" point-y="2226" />
+					<rune name="Booty Island" point-x="3810" point-y="2067" />
+					<rune name="Covetous" point-x="2498" point-y="924" />
+					<rune name="Deceit" point-x="4111" point-y="434" />
+					<rune name="Despise" point-x="1301" point-y="1085" />
+					<rune name="Destard" point-x="1168" point-y="2640" />
+					<rune name="Exodus" point-x="267" point-y="766" />
+					<rune name="Fire" point-x="5672" point-y="1420" />
+					<rune name="Hythloth" point-x="4722" point-y="3823" />
+					<rune name="Ice" point-x="1998" point-y="85" />
+					<rune name="Khaldun" point-x="1716" point-y="2997" />
+					<rune name="Orc Cave" point-x="1016" point-y="1432" />
+					<rune name="Shame" point-x="509" point-y="1564" />
+					<rune name="Wrong" point-x="2041" point-y="235" />
+				</runebook>
+				<runebook serial="1085754865" itemID="8901">
+					<rune name="Britain West" point-x="1418" point-y="1700" />
+					<rune name="Britain East" point-x="1648" point-y="1619" />
+					<rune name="Vesper" point-x="2892" point-y="686" />
+					<rune name="Minoc" point-x="2510" point-y="563" />
+					<rune name="Trinsic West" point-x="1824" point-y="2820" />
+					<rune name="Trinsic North" point-x="1908" point-y="2689" />
+					<rune name="Skara Brae" point-x="596" point-y="2137" />
+					<rune name="Serpents Hold" point-x="2883" point-y="3474" />
+					<rune name="NuJelm" point-x="3753" point-y="1318" />
+					<rune name="Magincia" point-x="3795" point-y="2247" />
+					<rune name="Jhelom" point-x="1319" point-y="3758" />
+					<rune name="Cove" point-x="2235" point-y="1200" />
+					<rune name="Occlo" point-x="3683" point-y="2518" />
+					<rune name="Yew" point-x="656" point-y="817" />
+					<rune name="Moonglow" point-x="4460" point-y="1172" />
+					<rune name="Bucs Den" point-x="2720" point-y="2188" />
+				</runebook>
+				<runebook serial="1152651097" itemID="8901">
+					<rune name="Despise 3 Cyclops" point-x="5488" point-y="926" />
+					<rune name="Despise 3 Titans" point-x="5430" point-y="965" />
+					<rune name="Cyclops Lake" point-x="5496" point-y="1008" />
+					<rune name="Cyclops Swamp" point-x="5384" point-y="948" />
+					<rune name="Despise Titans 2" point-x="5388" point-y="820" />
+					<rune name="Despise 3 Titans" point-x="5424" point-y="799" />
+				</runebook>
+			</travel>
+			<player name="Daneel Olivaw" serial="1723024" profile="Default">
+				<friends>
+					<character name="Limier" serial="8101209" />
+					<character name="Demerzel" serial="569053" />
+					<character name="GoogleMyName" serial="130584" />
+				</friends>
+				<useOnce index="0">
+					<item serial="1087474782" itemID="3705" />
+				</useOnce>
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="13" serial="1102053256" itemID="5068" />
+						<slot layer="4" serial="1094519846" itemID="5067" />
+						<slot layer="19" serial="1183691631" itemID="5069" />
+						<slot layer="10" serial="1106403685" itemID="5063" />
+						<slot layer="7" serial="1084752786" itemID="5062" />
+						<slot layer="5" serial="1123838602" itemID="7933" />
+						<slot layer="3" serial="1102232049" itemID="5901" />
+						<slot layer="12" serial="1086111031" itemID="5435" />
+						<slot layer="17" serial="1099145895" itemID="5441" />
+						<slot layer="6" serial="1123310620" itemID="5147" />
+					</dress>
+					<item serial="1082462990" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="20">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+			<player name="Demerzel" serial="569053" profile="Default">
+				<friends />
+				<useOnce index="0" />
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="8" serial="1110780565" itemID="4234" />
+						<slot layer="6" serial="1261677340" itemID="7609" />
+						<slot layer="7" serial="1113490655" itemID="5062" />
+						<slot layer="10" serial="1090591240" itemID="5063" />
+						<slot layer="17" serial="1251232120" itemID="5441" />
+						<slot layer="23" serial="1178647108" itemID="5398" />
+						<slot layer="3" serial="1229960577" itemID="5901" />
+						<slot layer="12" serial="1140278367" itemID="5435" />
+						<slot layer="22" serial="1082921749" itemID="7939" />
+						<slot layer="13" serial="1145616884" itemID="5068" />
+						<slot layer="19" serial="1083688681" itemID="5069" />
+						<slot layer="4" serial="1078842304" itemID="5067" />
+					</dress>
+					<item serial="1085265894" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="0">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+			<player name="Aulin" serial="3067477" profile="Default">
+				<friends />
+				<useOnce index="0" />
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="7" serial="1087888369" itemID="5062" />
+						<slot layer="4" serial="1078160102" itemID="5067" />
+						<slot layer="13" serial="1078160109" itemID="5068" />
+						<slot layer="19" serial="1087889513" itemID="5069" />
+						<slot layer="8" serial="1079292977" itemID="4234" />
+						<slot layer="17" serial="1096561528" itemID="8059" />
+						<slot layer="23" serial="1096561421" itemID="5431" />
+						<slot layer="3" serial="1084687135" itemID="5901" />
+						<slot layer="10" serial="1087879178" itemID="5063" />
+						<slot layer="6" serial="1078778063" itemID="5912" />
+						<slot layer="20" serial="1093997523" itemID="8969" />
+					</dress>
+					<item serial="1268689958" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="0">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+			<player name="TrAnToR" serial="3920223" profile="Default">
+				<friends />
+				<useOnce index="0" />
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="4" serial="1077496465" itemID="5067" />
+						<slot layer="3" serial="1162937664" itemID="5901" />
+						<slot layer="12" serial="1092703102" itemID="5435" />
+						<slot layer="13" serial="1076084318" itemID="5068" />
+						<slot layer="19" serial="1106095606" itemID="5069" />
+						<slot layer="7" serial="1102209669" itemID="5062" />
+						<slot layer="10" serial="1145199018" itemID="5063" />
+						<slot layer="6" serial="1080204693" itemID="7947" />
+						<slot layer="22" serial="1076567396" itemID="9860" />
+					</dress>
+					<item serial="1164312256" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="0">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+			<player name="Harla" serial="1270114" profile="Default">
+				<friends />
+				<useOnce index="0" />
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="22" serial="1105485898" itemID="7939" />
+					</dress>
+					<item serial="1097088906" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="0">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+			<player name="Fervus" serial="1159803" profile="Default">
+				<friends />
+				<useOnce index="0" />
+				<equip>
+					<arms />
+					<dress>
+						<slot layer="12" serial="1102988051" itemID="5435" />
+						<slot layer="3" serial="1077349843" itemID="5899" />
+						<slot layer="6" serial="1083073566" itemID="7609" />
+						<slot layer="10" serial="1083073567" itemID="5063" />
+						<slot layer="19" serial="1083073568" itemID="5069" />
+						<slot layer="7" serial="1083073570" itemID="5062" />
+						<slot layer="13" serial="1083073571" itemID="5068" />
+						<slot layer="4" serial="1083073573" itemID="5067" />
+						<slot layer="17" serial="1083260194" itemID="8059" />
+						<slot layer="22" serial="1075862802" itemID="9860" />
+					</dress>
+					<item serial="1085273947" />
+				</equip>
+				<restock reagent-count="100" heal-potion-count="15" cure-potion-count="15" refresh-potion-count="15" strength-potion-count="10" agility-potion-count="10" explosion-potion-count="0">
+					<item />
+					<item />
+				</restock>
+				<organize template-set="false" black-pearl-x="0" black-pearl-y="0" blood-moss-x="0" blood-moss-y="0" garlic-x="0" garlic-y="0" ginseng-x="0" ginseng-y="0" mandrake-root-x="0" mandrake-root-y="0" nightshade-x="0" nightshade-y="0" spiders-silk-x="0" spiders-silk-y="0" sulfurous-ash-x="0" sulfurous-ash-y="0" heal-potion-x="0" heal-potion-y="0" cure-potion-x="0" cure-potion-y="0" refresh-potion-x="0" refresh-potion-y="0" strength-potion-x="0" strength-potion-y="0" agility-potion-x="0" agility-potion-y="0" explosion-potion-x="0" explosion-potion-y="0">
+					<item />
+				</organize>
+			</player>
+		</server>
+	</servers>
+</config>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<macroConfig>
+	<macroSet serial="0" server="0">
+		<macro key="69632" modBits="1">
+			<action command="Say" param=". houselevel up" />
+		</macro>
+		<macro key="69634" modBits="0">
+			<action command="Repeat" param="Speech" />
+		</macro>
+		<macro key="69633" modBits="1">
+			<action command="Say" param=". houselevel down" />
+		</macro>
+		<macro key="69632" modBits="1">
+			<action command="Say" param=". houselevel up" />
+		</macro>
+		<macro key="81" modBits="1">
+			<action command="Restore" param="Speech" />
+		</macro>
+		<macro key="81" modBits="7">
+			<action command="Screenshots" />
+		</macro>
+		<macro key="79" modBits="2">
+			<action command="Open" param="Options" />
+		</macro>
+		<macro key="74" modBits="2">
+			<action command="Open" param="Journal" />
+		</macro>
+		<macro key="75" modBits="2">
+			<action command="Open" param="Skills" />
+		</macro>
+		<macro key="83" modBits="2">
+			<action command="Target" param="Find" />
+		</macro>
+		<macro key="66" modBits="2">
+			<action command="Open" param="Spellbook" />
+		</macro>
+		<macro key="80" modBits="2">
+			<action command="Open" param="Paperdoll" />
+		</macro>
+		<macro key="73" modBits="2">
+			<action command="Open" param="Backpack" />
+		</macro>
+		<macro key="71" modBits="0">
+			<action command="Clear" param="TargetQueue" />
+			<action command="UsePotion" param="Purple" />
+		</macro>
+		<macro key="80" modBits="1">
+			<action command="Ping" />
+		</macro>
+		<macro key="67" modBits="4">
+			<action command="Attack" param="Last" />
+		</macro>
+		<macro key="83" modBits="4">
+			<action command="Say" param=". Target" />
+		</macro>
+		<macro key="65" modBits="4">
+			<action command="AllNames" />
+		</macro>
+		<macro key="65" modBits="1">
+			<action command="Attack" param="Last" />
+		</macro>
+		<macro key="71" modBits="3">
+			<action command="ContainerGrid" />
+		</macro>
+		<macro key="72" modBits="0">
+			<action command="Use" param="Hiding" />
+		</macro>
+		<macro key="86" modBits="1">
+			<action command="Paste" />
+		</macro>
+		<macro key="84" modBits="2">
+			<action command="Cast" param="Teleport" />
+		</macro>
+		<macro key="69634" modBits="4">
+			<action command="UsePotion" param="Smart" />
+		</macro>
+		<macro key="123" modBits="0">
+			<action command="Resync" />
+			<action command="Open" param="Radar" />
+		</macro>
+		<macro key="82" modBits="3">
+			<action command="RegCounter" />
+		</macro>
+		<macro key="70" modBits="4">
+			<action command="Clear" param="TargetQueue" />
+			<action command="UseWand" param="Greater Heal" />
+		</macro>
+		<macro key="50" modBits="1">
+			<action command="Say" param="all come" />
+		</macro>
+		<macro key="87" modBits="2">
+			<action command="Cast" param="Wall of Stone" />
+		</macro>
+		<macro key="68" modBits="1">
+			<action command="Target" param="Acquire" />
+		</macro>
+		<macro key="68" modBits="3">
+			<action command="Cast" param="Dispel Field" />
+		</macro>
+		<macro key="51" modBits="2">
+			<action command="Cast" param="Greater Heal" />
+			<action command="DelayMacro" param="1600" />
+			<action command="Target" param="Self" />
+		</macro>
+		<macro key="50" modBits="2">
+			<action command="Cast" param="Heal" />
+			<action command="DelayMacro" param="660" />
+			<action command="Target" param="Self" />
+		</macro>
+		<macro key="9" modBits="0">
+			<action command="Warmode" />
+			<action command="Say" param=". DropTarg" />
+		</macro>
+		<macro key="192" modBits="0">
+			<action command="Say" param=". leavehouse" />
+		</macro>
+		<macro key="71" modBits="4">
+			<action command="Clear" param="TargetQueue" />
+			<action command="UseWand" param="Lightning" />
+			<action command="DelayMacro" param="500" />
+			<action command="UsePotion" param="Purple" />
+			<action command="DelayMacro" param="1500" />
+			<action command="Target" param="Last" />
+			<action command="DelayMacro" param="1" />
+			<action command="UsePotion" param="Purple" />
+		</macro>
+		<macro key="54" modBits="2">
+			<action command="Cast" param="Bless" />
+			<action command="WaitForTarget" />
+			<action command="Target" param="Self" />
+		</macro>
+		<macro key="48" modBits="0">
+			<action command="Open" param="Radar" />
+		</macro>
+		<macro key="49" modBits="2">
+			<action command="Cast" param="Cure" />
+			<action command="DelayMacro" param="950" />
+			<action command="Target" param="Self" />
+		</macro>
+		<macro key="69633" modBits="0">
+			<action command="BandageSelf" />
+		</macro>
+		<macro key="83" modBits="0">
+			<action command="Target" param="Find" />
+		</macro>
+		<macro key="52" modBits="0">
+			<action command="Cast" param="Mind Blast" />
+			<action command="DelayMacro" param="1700" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="72" modBits="4">
+			<action command="Cast" param="Invisibility" />
+		</macro>
+		<macro key="90" modBits="4">
+			<action command="Clear" param="TargetQueue" />
+			<action command="UseWand" param="Lightning" />
+			<action command="DelayMacro" param="1980" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="32" modBits="4">
+			<action command="ToggleHotkeys" />
+		</macro>
+		<macro key="70" modBits="0">
+			<action command="Say" param=". Target" />
+		</macro>
+		<macro key="50" modBits="0">
+			<action command="Cast" param="Explosion" />
+			<action command="DelayMacro" param="1950" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="50" modBits="4">
+			<action command="Cast" param="Greater Heal" />
+		</macro>
+		<macro key="76" modBits="1">
+			<action command="Grid" />
+		</macro>
+		<macro key="53" modBits="0">
+			<action command="Cast" param="Weaken" />
+			<action command="DelayMacro" param="700" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="54" modBits="0">
+			<action command="Cast" param="Clumsy" />
+			<action command="DelayMacro" param="700" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="55" modBits="0">
+			<action command="Cast" param="Feeblemind" />
+			<action command="DelayMacro" param="700" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="49" modBits="0">
+			<action command="Cast" param="Poison" />
+			<action command="DelayMacro" param="1170" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="51" modBits="4">
+			<action command="Cast" param="Cure" />
+		</macro>
+		<macro key="51" modBits="0">
+			<action command="Target" param="Last" />
+			<action command="Cast" param="Energy Bolt" />
+			<action command="DelayMacro" param="2050" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="88" modBits="0">
+			<action command="Dismount" />
+			<action command="Say" param="all kill" />
+			<action command="DelayMacro" param="100" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="88" modBits="4">
+			<action command="Remount" />
+		</macro>
+		<macro key="219" modBits="0">
+			<action command="UsePotion" param="Purple" />
+		</macro>
+		<macro key="187" modBits="0">
+			<action command="Target" param="Self" />
+		</macro>
+		<macro key="8" modBits="0">
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="77" modBits="0">
+			<action command="Use" param="Meditation" />
+		</macro>
+		<macro key="82" modBits="4">
+			<action command="Disarm" />
+		</macro>
+		<macro key="73" modBits="4">
+			<action command="Say" param=". Recall House Max" />
+		</macro>
+		<macro key="220" modBits="0">
+			<action command="Say" param=".OpenRunebooks" />
+		</macro>
+		<macro key="188" modBits="0">
+			<action command="Say" param=". AutoPickup" />
+		</macro>
+		<macro key="112" modBits="0">
+			<action command="Cast" param="Magic Arrow" />
+			<action command="DelayMacro" param="660" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="113" modBits="0">
+			<action command="Cast" param="Explosion" />
+		</macro>
+		<macro key="114" modBits="0">
+			<action command="Cast" param="Energy Bolt" />
+		</macro>
+		<macro key="115" modBits="0">
+			<action command="Cast" param="Mind Blast" />
+		</macro>
+		<macro key="116" modBits="0">
+			<action command="Target" param="Last" />
+			<action command="Cast" param="Flame Strike" />
+			<action command="DelayMacro" param="2300" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="187" modBits="4">
+			<action command="Wrestle" param="Stun" />
+		</macro>
+		<macro key="117" modBits="0">
+			<action command="Target" param="Last" />
+			<action command="Cast" param="Lightning" />
+			<action command="DelayMacro" param="1400" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="119" modBits="0">
+			<action command="Cast" param="Paralyze" />
+			<action command="DelayMacro" param="1750" />
+			<action command="Target" param="Last" />
+		</macro>
+		<macro key="20" modBits="0">
+			<action command="DelayMacro" param="10" />
+			<action command="Disrupt" />
+			<action command="Say" param=". clearqueue" />
+		</macro>
+		<macro key="66" modBits="4">
+			<action command="Say" param="bank" />
+		</macro>
+		<macro key="46" modBits="0">
+			<action command="UsePotion" param="Smart" />
+		</macro>
+		<macro key="46" modBits="4">
+			<action command="UsePotion" param="Blue" />
+		</macro>
+		<macro key="35" modBits="4">
+			<action command="UsePotion" param="Red" />
+		</macro>
+		<macro key="36" modBits="4">
+			<action command="UsePotion" param="White" />
+		</macro>
+		<macro key="87" modBits="4">
+			<action command="Dress" />
+		</macro>
+		<macro key="69" modBits="0">
+			<action command="Say" param=". queuetargets" />
+		</macro>
+		<macro key="35" modBits="0">
+			<action command="Say" param="i seek my enemies" />
+		</macro>
+		<macro key="52" modBits="2">
+			<action command="Say" param="[pouch" />
+		</macro>
+		<macro key="67" modBits="1">
+			<action command="Say" param=". dragtobag" />
+		</macro>
+		<macro key="38" modBits="0">
+			<action command="Say" param=". friend" />
+		</macro>
+		<macro key="36" modBits="0">
+			<action command="UsePotion" param="Yellow" />
+		</macro>
+		<macro key="37" modBits="0">
+			<action command="Say" param=". dragtobag" />
+		</macro>
+		<macro key="74" modBits="4">
+			<action command="Say" param=". usegate" />
+		</macro>
+		<macro key="39" modBits="0">
+			<action command="Say" param=". move" />
+		</macro>
+		<macro key="53" modBits="1">
+			<action command="Say" param="all follow me" />
+		</macro>
+		<macro key="40" modBits="0">
+			<action command="Say" param=". bringto" />
+		</macro>
+		<macro key="85" modBits="0">
+			<action command="Say" param=". queuetargets" />
+			<action command="Target" param="Last" />
+			<action command="Dismount" />
+			<action command="Say" param="all guard" />
+			<action command="DelayMacro" param="1" />
+			<action command="DelayMacro" param="150" />
+			<action command="Say" param="all kill" />
+			<action command="Target" param="Last" />
+			<action command="Cast" param="Energy Bolt" />
+			<action command="DelayMacro" param="1" />
+			<action command="DelayMacro" param="1900" />
+			<action command="Target" param="Last" />
+			<action command="Say" param=". queuetargets" />
+		</macro>
+		<macro key="81" modBits="0">
+			<action command="Cast" param="Mana Drain" />
+		</macro>
+		<macro key="33" modBits="0">
+			<action command="Say" param="i ban thee" />
+		</macro>
+		<macro key="8" modBits="4">
+			<action command="DelayMacro" param="500" />
+			<action command="Target" param="Last" />
+		</macro>
+	</macroSet>
+</macroConfig>
